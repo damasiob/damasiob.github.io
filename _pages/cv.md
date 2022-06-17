@@ -36,15 +36,15 @@ Work experience
     * since 2018
 
 * ISEG - Lisbon School of Economics and Management
-  * Assitant Professor 
+  * Assitant Professor - Department of Mathematics
     * 2019 - 2021 
-  * Invited Teaching Assistant
+  * Invited Teaching Assistant - Department of Mathematics
     * 2013 - 2019
-  * Teaching Fellow - Monitor at Department of Mathematics
+  * Teaching Fellow - Department of Mathematics
     * 2012 - 2013
 
 * Portuguese Public Finance Council
-  * Economist
+  * Economist/Econometrician
     * 2015 - 2016
 
 * Timberlake Consultants
