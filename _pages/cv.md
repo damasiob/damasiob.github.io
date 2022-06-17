@@ -31,7 +31,7 @@ Work experience
   * Invited Lecturer
     * 2015-2017
 
-* OECD
+* OECD - Organisation for Economic Co-operation and Development
   * External Senior Consultant 
     * since 2018
 
