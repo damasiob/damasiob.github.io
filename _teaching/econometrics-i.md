@@ -8,6 +8,7 @@ date: 2019-01-01
 location: "Lisbon, Portugal"
 ---
 <br/><br/>
+
 Bibliography
 ======
 * Wooldridge, J. M. (2015). Introductory econometrics: A modern approach. Cengage learning.
