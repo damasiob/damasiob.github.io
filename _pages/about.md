@@ -17,6 +17,7 @@ Recent Publications
 * Lehmann, C., Cruz-Jesus, F., Oliveira, T., & Damásio, B. (2022). Leveraging the circular economy: Investment and innovation as drivers. Journal of Cleaner Production, 132146.
 * Mendonça, S., Damásio, B., Santiago, F., Chen, M., Santos, A. B., Cunha, M. P., & Nicita, A. (2022). Strategic Encounters in Innovation and Regulation: Healthcare transformation in the Era of Digital Connectivity; Comment on “What Managers Find Important for Implementation of Innovations in the Healthcare Sector–Practice Through Six Management Perspectives”. International Journal of Health Policy and Management, (Articles in Press). 
 * Paredes, A., Mendonça, J., Bação, F., & Damásio, B. (2022). Does R&D tax credit impact firm behaviour? Micro evidence for Portugal. Research Evaluation, 31(2), 226-235.
+* Mendonça, S., Damásio, B., de Freitas, L. C., Oliveira, L., Cichy, M., & Nicita, A. (2022). The rise of 5G technologies and systems: A quantitative analysis of knowledge production. Telecommunications Policy, 46(4), 102327.
 * Vasconcelos, C., & Damásio, B. (2022). GenMarkov: Modeling Generalized Multivariate Markov Chains in R. arXiv preprint arXiv:2202.00333.
 * Curado, A., Damásio, B., Encarnação, S., Candia, C., & Pinheiro, F. L. (2021). Scaling behavior of public procurement activity. Plos one, 16(12), e0260806.
 * Lyra, M. S., Curado, A., Damásio, B., Bação, F., & Pinheiro, F. L. (2021). Characterization of the firm–firm public procurement co-bidding network from the State of Ceará (Brazil) municipalities. Applied Network Science, 6(1), 1-10.
