@@ -1,15 +1,14 @@
 ---
 title: "Econometrics I"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2019-econometrics-i
-venue: "NOVA IMS - Universidade Nova de Lisboa"
-date: 2019-01-01
+venue: ""
+date: 
 location: "Lisbon, Portugal"
 ---
 
-Linear regression
-
+Undergraduate course, NOVA IMS - Universidade Nova de Lisboa, 2019
 
 Bibliography
 ======
