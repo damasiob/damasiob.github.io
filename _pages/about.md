@@ -14,7 +14,14 @@ I completed my Ph.D. in Applied Mathematics at the University of Lisbon in 2019.
 Recent Publications
 ======
 
-* Curado A, Damásio B, Encarnação S, Candia C, Pinheiro FL (2021) Scaling behavior of public procurement activity. PLoS ONE 16(12): e0260806.
+* Lehmann, C., Cruz-Jesus, F., Oliveira, T., & Damásio, B. (2022). Leveraging the circular economy: Investment and innovation as drivers. Journal of Cleaner Production, 132146.
+* Paredes, A., Mendonça, J., Bação, F., & Damásio, B. (2022). Does R&D tax credit impact firm behaviour? Micro evidence for Portugal. Research Evaluation, 31(2), 226-235.
+* Vasconcelos, C., & Damásio, B. (2022). GenMarkov: Modeling Generalized Multivariate Markov Chains in R. arXiv preprint arXiv:2202.00333.
+* Curado, A., Damásio, B., Encarnação, S., Candia, C., & Pinheiro, F. L. (2021). Scaling behavior of public procurement activity. Plos one, 16(12), e0260806.
+* Lyra, M. S., Curado, A., Damásio, B., Bação, F., & Pinheiro, F. L. (2021). Characterization of the firm–firm public procurement co-bidding network from the State of Ceará (Brazil) municipalities. Applied Network Science, 6(1), 1-10.
+* Vaz, E., Damásio, B., Baçao, F., Kotha, M., Penfound, E., & Rai, S. K. (2021). Mumbai’s business landscape: A spatial analytical approach to urbanisation. Heliyon, 7(7), e07522.
+* Vaz, E., Cusimano, M. D., Bação, F., Damásio, B., & Penfound, E. (2021). Open data and injuries in urban areas—A spatial analytical framework of Toronto using machine learning and spatial regressions. Plos one, 16(3), e0248285.
+* Vaz, E., Bação, F., Damásio, B., Haynes, M., & Penfound, E. (2021). Machine learning for analysis of wealth in cities: A spatial-empirical examination of wealth in Toronto. Habitat International, 108, 102319.
 
 
 
