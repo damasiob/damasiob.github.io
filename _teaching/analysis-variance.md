@@ -18,7 +18,7 @@ Objectives
 * To employ methods for multiple comparisons to control the experiment error rate when multiple hypothesis tests are conducted;
 * To examine model assumptions using residual plots and a description of the experiment.
 
-Objectives
+Syllabus
 ======
 * Principles of Experimental Design and Simple Comparative Experiments
 * Experiments with a Single Factor: The Analysis of Variance
