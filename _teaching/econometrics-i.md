@@ -1,15 +1,13 @@
 ---
 title: "Econometrics I"
 collection: teaching
-type: ""
+type: "Undergraduate course"
 permalink: /teaching/2019-econometrics-i
-venue: ""
+venue: "NOVA IMS - Universidade Nova de Lisboa"
 date: 2019-01-01
 location: "Lisbon, Portugal"
 ---
-
-Undergraduate course, NOVA IMS - Universidade Nova de Lisboa, 2019
-
+ 
 Bibliography
 ======
 * Wooldridge, J. M. (2015). Introductory econometrics: A modern approach. Cengage learning.
