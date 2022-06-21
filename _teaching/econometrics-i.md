@@ -1,6 +1,5 @@
 ---
 title: "Econometrics I"
-collection: teaching
 permalink: /teaching/2019-econometrics-i
 ---
 
