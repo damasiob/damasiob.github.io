@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/2019-econometrics-i
 venue: ""
-date: 
+date: 2019-01-01
 location: "Lisbon, Portugal"
 ---
 
