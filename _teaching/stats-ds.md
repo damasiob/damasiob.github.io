@@ -1,6 +1,5 @@
 ---
-title: "Statistics for Data Science
-Syllabus"
+title: "Statistics for Data Science"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2019-Statistics-Data-Science
