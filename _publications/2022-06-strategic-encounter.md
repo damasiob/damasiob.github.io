@@ -2,7 +2,7 @@
 title: "Strategic Encounters in Innovation and Regulation:
 Healthcare Transformation in the Era of Digital Connectivity"
 collection: publications
-permalink: /publication/2022-06-strategic-encounter.md
+permalink: /publication/2022-06-strategic-encounter
 date: 2022-06-01
 venue: 'International Journal of Health Policy and Management'
 ---
