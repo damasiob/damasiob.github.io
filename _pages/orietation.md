@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
 
 PhD
 ======
@@ -17,7 +18,7 @@ Ongoing
 ----
   * **Carolina Vasconcelos**, What do large financial institutions know and how does it matter? A
 big‑data computational approach to the scientometric study of leading global policy players.
-    * ***Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS***
+    * *Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS*
   * **Luís Baltazar**, Data science for regulatory impact assessment.
     * ***Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS***
   * **Lígia Ernesto**, Health innovation enablers: Data‑driven paths and effectiveness. 
@@ -28,6 +29,7 @@ of success and sustainability.
   * **Alexandre Paredes**, The impacts of R&D expenditure on innovation and scientific employment.
     * ***Doctoral Program in Information Management. Specialization Fields: Information Systems, NOVA IMS***
 
+<br>
 
 MSc
 ======
