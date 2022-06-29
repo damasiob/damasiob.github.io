@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Orientations"
+title: "Supervisions"
 permalink: /orientations/
 author_profile: true
 redirect_from:
@@ -16,12 +16,6 @@ PhD
   
 Ongoing
 ----
-  1. hjj
-  3. jk
-  4. jhkjj
-  5. hkj
-  6. 
-  
   * **Carolina Vasconcelos**, What do large financial institutions know and how does it matter? A
 big‑data computational approach to the scientometric study of leading global policy players.
     * *Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS*
