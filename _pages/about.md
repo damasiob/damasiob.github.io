@@ -14,7 +14,7 @@ I completed my Ph.D. in Applied Mathematics at the University of Lisbon in 2019.
 
 My Research Statement
 ======
-|    *I understand my mission as advancing knowledge for the sake of science and the common good. My professional center of gravity is firmly rooted in research and innovation activities; nonetheless, I see these in connection to policy and regulatory concerns, which in turn have the potential to enrich and leverage my learning and academic efforts.*
+  *I understand my mission as advancing knowledge for the sake of science and the common good. My professional center of gravity is firmly rooted in research and innovation activities; nonetheless, I see these in connection to policy and regulatory concerns, which in turn have the potential to enrich and leverage my learning and academic efforts.*
 
 
 
