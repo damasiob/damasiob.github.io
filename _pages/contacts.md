@@ -18,4 +18,4 @@ Campus de Campolide
 
 Telephone: +351 213 828 610
 
-Mail: [bdamasio@novaims.unl.pt](mailto:bdamasio@novaims.unl.pt)
+mail: [bdamasio@novaims.unl.pt](mailto:bdamasio@novaims.unl.pt)
