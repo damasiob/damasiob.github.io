@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Supervisions"
-permalink: /orientations/
+permalink: /supervisions/
 author_profile: true
 redirect_from:
   - /resume
