@@ -36,6 +36,10 @@ MSc
 
 Concluded
 ---
+  * **Filipa Castilho**, Trends in the scientific production on intangible cultural heritage, a
+bibliometric analysis.
+    * *Master in Statistics and Information Management, NOVA IMS*
+    
   * **Bruno Ruivo**, The impacts of covid‑19 on stock market’s volatility spillovers.
     * *Master in Statistics and Information Management, NOVA IMS*
     
@@ -197,11 +201,6 @@ Markov chains.
   * **Emil Ahmadov**, Big tech and social networks: The intermediation power of Facebook, Google,
 Netflix, and other digital giant platforms.
     * *Master in Data Science and Advanced Analytics, NOVA IMS*
-
-  * **Filipa Castilho**, Trends in the scientific production on intangible cultural heritage, a
-bibliometric analysis.
-    * *Master in Statistics and Information Management, NOVA IMS*
-
 
   * **Guilherme Bertoldi**, Nowcasting using ”finfluencers” on Twitter.
     * *Master in Statistics and Information Management, NOVA IMS*
