@@ -170,6 +170,11 @@ Portugal.
 
 Ongoing
 ---
+
+  * **Olimpio Zavale**, Logistic regression approach for malaria vector control program impact assessment in Mozambique
+    * *Master in Statistics and Information Management, NOVA IMS*
+
+
   * **Andrea Cruz**, Battery research: What, who, when, how much?
     * *Master in Statistics and Information Management, NOVA IMS*
 
