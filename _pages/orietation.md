@@ -40,6 +40,10 @@ Concluded
 bibliometric analysis.
     * *Master in Statistics and Information Management, NOVA IMS*
     
+  * **Pedro Pereira**, Inside 5G: A natural language processing approach to a revolutionary
+technology.
+    * *Master in Data Science and Advanced Analytics, NOVA IMS*
+    
   * **Bruno Ruivo**, The impacts of covid‑19 on stock market’s volatility spillovers.
     * *Master in Statistics and Information Management, NOVA IMS*
     
@@ -171,9 +175,6 @@ Portugal.
 Ongoing
 ---
 
-  * **Olimpio Zavale**, Logistic regression approach for malaria vector control program impact assessment in Mozambique
-    * *Master in Statistics and Information Management, NOVA IMS*
-
 
   * **Andrea Cruz**, Battery research: What, who, when, how much?
     * *Master in Statistics and Information Management, NOVA IMS*
@@ -255,9 +256,8 @@ and carbon emissions.
 economics and social influence.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Pedro Pereira**, Inside 5G: A natural language processing approach to a revolutionary
-technology.
-    * *Master in Data Science and Advanced Analytics, NOVA IMS*
+  * **Olimpio Zavale**, Logistic regression approach for malaria vector control program impact assessment in Mozambique
+    * *Master in Statistics and Information Management, NOVA IMS*
 
   * **Phillip Metzger**, Battery patents: A quantitative analysis of innovation in battery technology
 and an assessment of its predictive capabilities.
