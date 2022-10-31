@@ -36,6 +36,23 @@ MSc
 
 Concluded
 ---
+
+  * **Joana Rita Lopes**, The impact of journal editors in academic publications: A stochastic frontier
+analysis.
+    * *Master Information Management, NOVA IMS*
+
+  * **João Pedro Monteiro**, Performance and actual pay in the top 5 european football leagues: The
+use of market value as a proxy variable for football players’ wages.
+    * *Master in Statistics and Information Management, NOVA IMS*
+
+
+  * **Lars Frobel**, Patents in the energy sector: A study on the innovation strength of european
+largest energy suppliers, based on patents.
+    * *Master Information Management, NOVA IMS*
+
+ * **Olimpio Zavale**, Logistic regression approach for malaria vector control program impact assessment in Mozambique
+    * *Master in Statistics and Information Management, NOVA IMS*
+    
   * **Filipa Castilho**, Trends in the scientific production on intangible cultural heritage, a
 bibliometric analysis.
     * *Master in Statistics and Information Management, NOVA IMS*
@@ -65,10 +82,6 @@ and firm‑level determinants.
     * *Master Information Management, NOVA IMS*
     
   * **Miguel Ramos**, The impact of wage dispersion in football teams performance.
-    * *Master in Data Science and Advanced Analytics, NOVA IMS*
-    
-  * **Pedro Carvalho**, Covid crash: a study of volatility spillovers from stocks to US indexes and
-from us indexes to cryptocurrencies.
     * *Master in Data Science and Advanced Analytics, NOVA IMS*
     
   * **Pedro Carvalho**, Covid crash: a study of volatility spillovers from stocks to US indexes and
@@ -212,23 +225,11 @@ Netflix, and other digital giant platforms.
     * *Master in Statistics and Information Management, NOVA IMS*
 
 
-  * **Joana Rita Lopes**, The impact of journal editors in academic publications: A stochastic frontier
-analysis.
-    * *Master Information Management, NOVA IMS*
-
-  * **João Pedro Monteiro**, Performance and actual pay in the top 5 european football leagues: The
-use of market value as a proxy variable for football players’ wages.
-    * *Master in Statistics and Information Management, NOVA IMS*
-
   * **João Teodoro**, Testing the predictability of cryptocurrencies returns with generalized
 multivariate Markov chains.
     * *Master in Statistics and Information Management, NOVA IMS*
 
   * **Lara Faria**, Policy evaluation: A synthetic control method approach.
-    * *Master Information Management, NOVA IMS*
-
-  * **Lars Frobel**, Patents in the energy sector: A study on the innovation strength of european
-largest energy suppliers, based on patents.
     * *Master Information Management, NOVA IMS*
 
   * **Leonor Porto**, Estimating the probability of winning a public procurement bid: A zero‑inflated
@@ -243,7 +244,6 @@ bang of a new approach.
 of knowledge production.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-
   * **Matilde Rasgado Cunha**, The meaning and metrics of Mr. Trump: assessing global and sectoral
 impacts.
     * *Master in Statistics and Information Management, NOVA IMS*
@@ -254,9 +254,6 @@ and carbon emissions.
 
   * **Nuno Galhofo**, Money laundering ‑ a quantitative analysis of knowledge production and its
 economics and social influence.
-    * *Master in Statistics and Information Management, NOVA IMS*
-
-  * **Olimpio Zavale**, Logistic regression approach for malaria vector control program impact assessment in Mozambique
     * *Master in Statistics and Information Management, NOVA IMS*
 
   * **Phillip Metzger**, Battery patents: A quantitative analysis of innovation in battery technology
