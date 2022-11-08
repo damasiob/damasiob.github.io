@@ -1,4 +1,3 @@
-
 ---
 title: "Leader-follower dynamics in real historical time: a Markovian test of non-linear causality between sail and steam (co-)development"
 collection: publications
