@@ -21,12 +21,12 @@ big‑data computational approach to the scientometric study of leading global p
     * *Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS*
   2. **Luís Baltazar**, Data science for regulatory impact assessment.
     * *Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS*
-  * **Lígia Ernesto**, Health innovation enablers: Data‑driven paths and effectiveness. 
+  3. **Lígia Ernesto**, Health innovation enablers: Data‑driven paths and effectiveness. 
     * *Ph.D. in Management. Specialization Field: Strategy and Entrepreneurship, ISCTE*
-  3. **Renato Lains Mota**, Data‑driven healthcare business models: Understanding the determinants
+  4. **Renato Lains Mota**, Data‑driven healthcare business models: Understanding the determinants
 of success and sustainability.
     * *Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS*
-  4. **Alexandre Paredes**, The impacts of R&D expenditure on innovation and scientific employment.
+  5. **Alexandre Paredes**, The impacts of R&D expenditure on innovation and scientific employment.
     * *Doctoral Program in Information Management. Specialization Fields: Information Systems, NOVA IMS*
 
 <br>
