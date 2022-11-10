@@ -8,4 +8,4 @@ location: "Lisbon, Portugal"
 
 Ongoing Courses
 
-Take a look at [Econometrics I](http://lucasadoims.github.io/_teaching/_ongoing/econometrics-i.md) for more information.
+Take a look at [Econometrics I](http://lucasadoims.github.io/ongoing_courses/econometrics-i.md) for more information.
