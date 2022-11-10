@@ -1,8 +1,6 @@
 ---
-title: "Ongoing"
-collection: teaching
-permalink: /teaching/ongoing
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
-<br/><br/>
-
-on going courses
