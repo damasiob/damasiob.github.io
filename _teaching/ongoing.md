@@ -7,3 +7,5 @@ location: "Lisbon, Portugal"
 ---
 
 Ongoing Courses
+
+Take a look at [Econometrics I](/_teaching/_ongoing/econometrics-i.md) for more information.
