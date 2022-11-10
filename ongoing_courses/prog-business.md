@@ -2,7 +2,7 @@
 title: "Programming for Business - R Module"
 collection: teaching
 type: "Master course"
-permalink: /teaching/2019-prog-business
+permalink: /ongoing_courses/2019-prog-business
 venue: "NOVA IMS - Universidade Nova de Lisboa"
 date: 2020-01-01
 location: "Lisbon, Portugal"
