@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Ongoing"
-permalink: /teaching/
+permalink: /teaching/ongoing/
 author_profile: true
 ---
