@@ -1,6 +1,9 @@
 ---
-layout: archive
 title: "Ongoing"
-permalink: /teaching/ongoing/
-author_profile: true
+collection: teaching
+permalink: /teaching/ongoing
+date: 2023-01-01
+location: "Lisbon, Portugal"
 ---
+
+Ongoing Courses
