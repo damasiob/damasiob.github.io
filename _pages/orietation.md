@@ -189,82 +189,82 @@ Ongoing
 ---
 
 
-  * **Andrea Cruz**, Battery research: What, who, when, how much?
+  1. **Andrea Cruz**, Battery research: What, who, when, how much?
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Andrea Sánchez Licer**, Scientific capabilities of a high‑tech industry: The case of the Spanish
+  2. **Andrea Sánchez Licer**, Scientific capabilities of a high‑tech industry: The case of the Spanish
 pharmaceutical sector.
     * *Master Information Management, NOVA IMS*
 
-  * **Arthur Campos**, Nowcasting macroeconomics with google trends.
+  3. **Arthur Campos**, Nowcasting macroeconomics with google trends.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Bruno Esteves Borges**, Understanding quarterly GDP forecasts performance’s: A regional
+  4. **Bruno Esteves Borges**, Understanding quarterly GDP forecasts performance’s: A regional
 disposition.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Carolina Rocha**, Network analysis of global tourism flows.
+  5. **Carolina Rocha**, Network analysis of global tourism flows.
     * *Master in Data Science and Advanced Analytics, NOVA IMS*
 
-  * **Luís Casado**, The econometrics of knowledge: Central banks as power‑houses of scientific
+  6. **Luís Casado**, The econometrics of knowledge: Central banks as power‑houses of scientific
 breakthroughs.
     * *Master in Applied Econometrics and Forecasting, ISEG*
 
-  * **Daniela Correia**, Testing the predictability of cryptocurrencies returns with multivariate
+  7. **Daniela Correia**, Testing the predictability of cryptocurrencies returns with multivariate
 Markov chains.
     * *Master Information Management, NOVA IMS*
 
-  * **Eliane Zanlorense**, The impact of food deserts on health status.
+  8. **Eliane Zanlorense**, The impact of food deserts on health status.
     * *Master in Data Science and Advanced Analytics, NOVA IMS*
 
-  * **Emil Ahmadov**, Big tech and social networks: The intermediation power of Facebook, Google,
+  9. **Emil Ahmadov**, Big tech and social networks: The intermediation power of Facebook, Google,
 Netflix, and other digital giant platforms.
     * *Master in Data Science and Advanced Analytics, NOVA IMS*
 
-  * **Guilherme Bertoldi**, Nowcasting using ”finfluencers” on Twitter.
+  10. **Guilherme Bertoldi**, Nowcasting using ”finfluencers” on Twitter.
     * *Master in Statistics and Information Management, NOVA IMS*
 
 
-  * **João Teodoro**, Testing the predictability of cryptocurrencies returns with generalized
+  11. **João Teodoro**, Testing the predictability of cryptocurrencies returns with generalized
 multivariate Markov chains.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Lara Faria**, Policy evaluation: A synthetic control method approach.
+  12. **Lara Faria**, Policy evaluation: A synthetic control method approach.
     * *Master Information Management, NOVA IMS*
 
-  * **Leonor Porto**, Estimating the probability of winning a public procurement bid: A zero‑inflated
+  13. **Leonor Porto**, Estimating the probability of winning a public procurement bid: A zero‑inflated
 poisson regression approach.
     * *Master in Data Science and Advanced Analytics, NOVA IMS*
 
-  * **Mafalda Namora**, The rise of big data analytics in economics and business studies: The big
+  14. **Mafalda Namora**, The rise of big data analytics in economics and business studies: The big
 bang of a new approach.
     * *Master in Information Management, NOVA IMS*
 
-  * **Marta Sacavem**, The evolution of 4G wireless communication systems: a quantitative analysis
+  15. **Marta Sacavem**, The evolution of 4G wireless communication systems: a quantitative analysis
 of knowledge production.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Matilde Rasgado Cunha**, The meaning and metrics of Mr. Trump: assessing global and sectoral
+  16. **Matilde Rasgado Cunha**, The meaning and metrics of Mr. Trump: assessing global and sectoral
 impacts.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Miguel Panzo**, The Algarve railway line as a “Regional metro”: Impacts on mobility, economy
+  17. **Miguel Panzo**, The Algarve railway line as a “Regional metro”: Impacts on mobility, economy
 and carbon emissions.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Nuno Galhofo**, Money laundering ‑ a quantitative analysis of knowledge production and its
+  18. **Nuno Galhofo**, Money laundering ‑ a quantitative analysis of knowledge production and its
 economics and social influence.
     * *Master in Statistics and Information Management, NOVA IMS*
 
-  * **Phillip Metzger**, Battery patents: A quantitative analysis of innovation in battery technology
+  19. **Phillip Metzger**, Battery patents: A quantitative analysis of innovation in battery technology
 and an assessment of its predictive capabilities.
     * *Master in Data Science and Advanced Analytics, NOVA IMS*
 
-  * **Sara Nunes**, The dynamics of business ideas: Grasping the evolution of industrial change
+  20. **Sara Nunes**, The dynamics of business ideas: Grasping the evolution of industrial change
 through global consultancy reports.
     * *Master in Information Management, NOVA IMS*
 
-  * **Sofia Bação Martins**, Do investment banks publish (academically)? Assessing the intellectual
+  21. **Sofia Bação Martins**, Do investment banks publish (academically)? Assessing the intellectual
 capabilities of elite financial institutions.
     * *Master in Statistics and Information Management, NOVA IMS*
 
