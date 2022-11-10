@@ -2,7 +2,7 @@
 title: "Analysis of Variance"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-Analysis-of-Variance
+permalink: /ongoing_courses/2019-Analysis-of-Variance
 venue: "NOVA IMS - Universidade Nova de Lisboa"
 date: 2019-01-01
 location: "Lisbon, Portugal"
