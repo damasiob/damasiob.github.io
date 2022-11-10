@@ -8,4 +8,4 @@ location: "Lisbon, Portugal"
 
 Ongoing Courses
 
-Take a look at [Econometrics I](/ongoing_courses/2019-econometrics-i) for more information.
+Take a look at [Econometrics I](https://damasiob.github.io/ongoing_courses/2019-econometrics-i) for more information.
