@@ -15,3 +15,7 @@ Ongoing Courses
 [Analysis of Discrete Data](https://damasiob.github.io/ongoing_courses/2019-Analysis-of-discrete-data)
 
 [Analysis of Variance](https://damasiob.github.io/ongoing_courses/2019-Analysis-of-Variance)
+
+[Programming for Business - R Module](https://damasiob.github.io/ongoing_courses/2019-prog-business)
+
+[Statistics for Data Science](https://damasiob.github.io/ongoing_courses/2019-Statistics-Data-Science)
