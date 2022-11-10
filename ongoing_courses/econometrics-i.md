@@ -2,7 +2,7 @@
 title: "Econometrics I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-econometrics-i
+permalink: /ongoing_courses/2019-econometrics-i
 venue: "NOVA IMS - Universidade Nova de Lisboa"
 date: 2019-01-01
 location: "Lisbon, Portugal"
