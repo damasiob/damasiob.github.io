@@ -10,9 +10,6 @@ location: "Lisbon, Portugal"
 
 <br>
 
-Past Courses
-======
-
   1. Spring 2014/15 **Statistics II (Practical)**, B.Sc. Economics/B.Sc. Finance - ISEG
   2. Spring 2014/15 **Statistics II (Practical)**, B.Sc. Management
   3. Fall 2014/15 **Econometrics (Practical)**, B.Sc. Economics/B.Sc. Finance - ISEG
