@@ -2,6 +2,8 @@
 title: "Ongoing"
 collection: teaching
 permalink: /teaching/ongoing
+type: "Undergraduate & Master's courses"
+venue: "NOVA IMS - Information Management School"
 date: 2023-01-01
 location: "Lisbon, Portugal"
 ---
