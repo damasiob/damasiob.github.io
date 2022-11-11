@@ -7,6 +7,7 @@ venue: "NOVA IMS - Information Management School"
 date: 2023-01-01
 location: "Lisbon, Portugal"
 ---
+<br>
 
 Ongoing Courses
 ===
