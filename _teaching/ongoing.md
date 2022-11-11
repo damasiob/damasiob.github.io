@@ -9,9 +9,6 @@ location: "Lisbon, Portugal"
 ---
 <br>
 
-Ongoing Courses
-===
-
 1. [**Econometrics I**](https://damasiob.github.io/ongoing_courses/2019-econometrics-i), B.Sc. Information Management/B.Sc. Data Science - NOVA IMS
 2. [**Econometrics II**](https://damasiob.github.io/ongoing_courses/2019-econometrics-i), B.Sc. Information Management - NOVA IMS
 3. [**Analysis of Discrete Data**](https://damasiob.github.io/ongoing_courses/2019-Analysis-of-discrete-data), -NOVA IMS
