@@ -17,7 +17,7 @@ Besides, an empirical illustration demonstrated the relevance of this new model 
 An additional and practical contribution of this work is the development of a novel R package with this generalization.
 
 
-[Download paper here](http://lucasadoims.github.io/files/2022-02-genmarkov.pdf)
+[Download paper here](http://damasiob.github.io/files/2022-02-genmarkov.pdf)
 
 
 
