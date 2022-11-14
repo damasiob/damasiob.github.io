@@ -13,7 +13,7 @@ Abstract: Healthcare innovations emerge and develop in institutionally dense sel
 
 
 
-[Download paper here](http://lucasadoims.github.io/files/2022-06-strategic-encounter.pdf)
+[Download paper here](http://damasiob.github.io/files/2022-06-strategic-encounter.pdf)
 
 
 
