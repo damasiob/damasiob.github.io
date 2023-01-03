@@ -24,14 +24,6 @@ big‑data computational approach to the scientometric study of leading global p
   4. **Renato Lains Mota**, Data‑driven healthcare business models: Understanding the determinants
 of success and sustainability. *Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS*
   5. **Alexandre Paredes**, The impacts of R&D expenditure on innovation and scientific employment. *Doctoral Program in Information Management. Specialization Fields: Information Systems, NOVA IMS*
-
-
-Test
-----
-<ol reversed>
-  <li> case 3</li>
-  <li> case 4</li>
-</ol>
   
 <br>
 
