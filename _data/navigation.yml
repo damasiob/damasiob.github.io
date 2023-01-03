@@ -12,6 +12,10 @@ main:
   - title: "Supervisions"
     url: /supervisions/
     
+        
+  - title: "Resources"
+    url: /resources/
+    
   - title: "Contacts"
     url: /contacts/
 
