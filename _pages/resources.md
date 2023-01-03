@@ -13,7 +13,7 @@ redirect_from:
 
 Academic Writting
 ======
-  * Causal Inference The Mixtape, Scott Cunningham
+  * [Causal Inference The Mixtape](https://mixtape.scunning.com/), Scott Cunningham
 
 Econometrics
 ======
