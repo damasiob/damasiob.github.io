@@ -143,21 +143,29 @@ Ongoing
 
 <li><b>Lara Faria</b>, Policy evaluation: A synthetic control method approach. <i>Master Information Management, NOVA IMS</i></li>
 
+<li><b>Leonor Porto</b>, Estimating the probability of winning a public procurement bid: A zero‑inflated poisson regression approach. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
+
+<li><b>Mafalda Namora</b>, The rise of big data analytics in economics and business studies: The big bang of a new approach. <i>Master in Information Management, NOVA IMS</i></li>
+
+
+<li><b>Marta Sacavem</b>, The evolution of 4G wireless communication systems: a quantitative analysis of knowledge production. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
+
+<li><b>Matilde Rasgado Cunha</b>, The meaning and metrics of Mr. Trump: assessing global and sectoral impacts. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
+
+<li><b>Miguel Panzo</b>, The Algarve railway line as a “Regional metro”: Impacts on mobility, economy and carbon emissions. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
+
+<li><b>Nuno Galhofo</b>, Money laundering ‑ a quantitative analysis of knowledge production and its economics and social influence. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
+
+<li><b>Phillip Metzger</b>, Battery patents: A quantitative analysis of innovation in battery technology and an assessment of its predictive capabilities. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
+
+<li><b>Sara Nunes</b>, The dynamics of business ideas: Grasping the evolution of industrial change through global consultancy reports. <i>Master in Information Management, NOVA IMS</i></li>
+<li><b>Sofia Bação Martins</b>, Do investment banks publish (academically)? Assessing the intellectual capabilities of elite financial institutions. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
 
 </ol>
   
   
 
 
-  13. **Leonor Porto**, Estimating the probability of winning a public procurement bid: A zero‑inflated poisson regression approach. *Master in Data Science and Advanced Analytics, NOVA IMS*
-  14. **Mafalda Namora**, The rise of big data analytics in economics and business studies: The big bang of a new approach. *Master in Information Management, NOVA IMS*
-  15. **Marta Sacavem**, The evolution of 4G wireless communication systems: a quantitative analysis of knowledge production. *Master in Statistics and Information Management, NOVA IMS*
-  16. **Matilde Rasgado Cunha**, The meaning and metrics of Mr. Trump: assessing global and sectoral impacts. *Master in Statistics and Information Management, NOVA IMS*
-  17. **Miguel Panzo**, The Algarve railway line as a “Regional metro”: Impacts on mobility, economy and carbon emissions. *Master in Statistics and Information Management, NOVA IMS*
-  18. **Nuno Galhofo**, Money laundering ‑ a quantitative analysis of knowledge production and its economics and social influence. *Master in Statistics and Information Management, NOVA IMS*
-  19. **Phillip Metzger**, Battery patents: A quantitative analysis of innovation in battery technology and an assessment of its predictive capabilities. *Master in Data Science and Advanced Analytics, NOVA IMS*
-  20. **Sara Nunes**, The dynamics of business ideas: Grasping the evolution of industrial change through global consultancy reports. *Master in Information Management, NOVA IMS*
-  21. **Sofia Bação Martins**, Do investment banks publish (academically)? Assessing the intellectual capabilities of elite financial institutions. *Master in Statistics and Information Management, NOVA IMS*
 
 
 
