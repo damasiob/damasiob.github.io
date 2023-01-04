@@ -119,30 +119,30 @@ Ongoing
 ---
 
 <ol reversed>
-  <li><b>Andrea Cruz</b>, Battery research: What, who, when, how much? <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-  
-<li><b>Andrea Sánchez Licer</b>, Scientific capabilities of a high‑tech industry: The case of the Spanish pharmaceutical sector. <i>Master Information Management, NOVA IMS</i></li>
-  
-  <li><b>Arthur Campos</b>, Nowcasting macroeconomics with google trends. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-  
-    <li><b>Bruno Esteves Borges</b>, Understanding quarterly GDP forecasts performance’s: A regional disposition. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-  
-      <li><b>Carolina Rocha</b>, Network analysis of global tourism flows. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
+<li><b>Andrea Cruz</b>, Battery research: What, who, when, how much? <i>Master in Statistics and Information Management, NOVA IMS</i></li>
 
-  <li><b>Luís Casado</b>, The econometrics of knowledge: Central banks as power‑houses of scientific breakthroughs. <i>Master in Applied Econometrics and Forecasting, ISEG</i></li>
-  
-    <li><b>Daniela Correia</b>, Testing the predictability of cryptocurrencies returns with multivariate Markov chains. <i>Master Information Management, NOVA IMS</i></li>
-  
-      <li><b>Eliane Zanlorense</b>, The impact of food deserts on health status. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
-  
-      <li><b>Emil Ahmadov</b>, Big tech and social networks: The intermediation power of Facebook, Google, Netflix, and other digital giant platforms. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
-  
-        <li><b>Guilherme Bertoldi</b>, Nowcasting using ”finfluencers” on Twitter. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-  
-          <li><b>João Teodoro</b>, Testing the predictability of cryptocurrencies returns with generalized multivariate Markov chains. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-  
-            <li><b>Lara Faria</b>, Policy evaluation: A synthetic control method approach. <i>Master Information Management, NOVA IMS</i></li>
-  
+<li><b>Andrea Sánchez Licer</b>, Scientific capabilities of a high‑tech industry: The case of the Spanish pharmaceutical sector. <i>Master Information Management, NOVA IMS</i></li>
+
+<li><b>Arthur Campos</b>, Nowcasting macroeconomics with google trends. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
+
+<li><b>Bruno Esteves Borges</b>, Understanding quarterly GDP forecasts performance’s: A regional disposition. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
+
+<li><b>Carolina Rocha</b>, Network analysis of global tourism flows. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
+
+<li><b>Luís Casado</b>, The econometrics of knowledge: Central banks as power‑houses of scientific breakthroughs. <i>Master in Applied Econometrics and Forecasting, ISEG</i></li>
+
+<li><b>Daniela Correia</b>, Testing the predictability of cryptocurrencies returns with multivariate Markov chains. <i>Master Information Management, NOVA IMS</i></li>
+
+<li><b>Eliane Zanlorense</b>, The impact of food deserts on health status. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
+
+<li><b>Emil Ahmadov</b>, Big tech and social networks: The intermediation power of Facebook, Google, Netflix, and other digital giant platforms. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
+
+<li><b>Guilherme Bertoldi</b>, Nowcasting using ”finfluencers” on Twitter. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
+
+<li><b>João Teodoro</b>, Testing the predictability of cryptocurrencies returns with generalized multivariate Markov chains. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
+
+<li><b>Lara Faria</b>, Policy evaluation: A synthetic control method approach. <i>Master Information Management, NOVA IMS</i></li>
+
 
 </ol>
   
