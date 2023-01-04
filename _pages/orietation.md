@@ -18,6 +18,9 @@ Ongoing
 ----
     
 <ol reversed>
+   <li><b>Luis Manica</b>, State aid in very high-capacity networks - Understanding the policy drivers in France, Portugal, Spain and United Kingdom. <i>Ph.D. in Public Policy , ISCTE</i></li>
+   <li><b>Eduardo Magalhães e Silva</b>, A scientometric approach to digital platforms: Knowledge sources, processes and impacts of “Big Tech”
+ <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
   <li><b>Carolina Vasconcelos</b>, What do large financial institutions know and how does it matter? A
 big‑data computational approach to the scientometric study of leading global policy players. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
   <li><b>Luís Baltazar</b>, Data science for regulatory impact assessment. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
@@ -113,7 +116,7 @@ largest energy suppliers, based on patents. <i>Master Information Management, NO
 
 <li><b>Filipa Almeida</b>, Loan modifications and risk of default: A Markov chains approach. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
 
-<li><b>Pauline Rosado</b>, LO crescimento económico e as emissões de CO2. <i>Master in Quantitative Methods for Decision‑making in Economics and Business, ISEG</i></li>
+<li><b>Pauline Rosado</b>, O crescimento económico e as emissões de CO2. <i>Master in Quantitative Methods for Decision‑making in Economics and Business, ISEG</i></li>
 
 <li><b>Diogo Martins</b>, Do labour market reforms pay off? Unemployment and capital accumulation in Portugal. <i>Master in Monetary and Financial Economics, ISEG</i></li>
 
