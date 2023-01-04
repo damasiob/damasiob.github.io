@@ -36,6 +36,11 @@ Concluded
 ---
 
 <ol reversed>
+  
+  <li><b>Phillip Metzger</b>, Battery patents: A quantitative analysis of innovation in battery technology and an assessment of its predictive capabilities. <i>Master in Economics and Management of Science Technology and Innovation, ISEG</i></li>
+  
+  <li><b>Ana Rita Carmo</b>, Industrial Espionage: Mapping Meanings and Assessing Trends. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
+  
   <li><b>Joana Rita Lopes</b>, The impact of journal editors in academic publications: A stochastic frontier analysis. <i>Master Information Management, NOVA IMS</i></li>
   <li><b>João Pedro Monteiro</b>, Performance and actual pay in the top 5 european football leagues: The use of market value as a proxy variable for football players’ wages. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
 <li><b>Lars Frobel</b>, Patents in the energy sector: A study on the innovation strength of european
@@ -155,8 +160,6 @@ Ongoing
 <li><b>Miguel Panzo</b>, The Algarve railway line as a “Regional metro”: Impacts on mobility, economy and carbon emissions. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
 
 <li><b>Nuno Galhofo</b>, Money laundering ‑ a quantitative analysis of knowledge production and its economics and social influence. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-
-<li><b>Phillip Metzger</b>, Battery patents: A quantitative analysis of innovation in battery technology and an assessment of its predictive capabilities. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
 
 <li><b>Sara Nunes</b>, The dynamics of business ideas: Grasping the evolution of industrial change through global consultancy reports. <i>Master in Information Management, NOVA IMS</i></li>
 <li><b>Sofia Bação Martins</b>, Do investment banks publish (academically)? Assessing the intellectual capabilities of elite financial institutions. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
