@@ -40,7 +40,7 @@ Concluded
 
 <ol reversed>
   
-    <li><b>Andrea Cruz</b>, Battery research: What, who, when, how much? <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+   <li><b>Andrea Cruz</b>, Battery research: What, who, when, how much? <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
 
   <li><b>Andrea Sánchez Licer</b>, Scientific capabilities of a high‑tech industry: The case of the Spanish pharmaceutical sector. <i>Master Information Management, NOVA IMS, 2023.</i></li>
 
