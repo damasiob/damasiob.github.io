@@ -40,6 +40,34 @@ Concluded
 
 <ol reversed>
   
+    <li><b>Andrea Cruz</b>, Battery research: What, who, when, how much? <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+
+  <li><b>Andrea Sánchez Licer</b>, Scientific capabilities of a high‑tech industry: The case of the Spanish pharmaceutical sector. <i>Master Information Management, NOVA IMS, 2023.</i></li>
+
+
+  <li><b>Ana Luisa Mestre</b>, A Scientometric Analysis to Study the Trends on Nuclear Weapons-Related Research <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
+
+
+  <li><b>Francisco Bettencourt</b>, Forecasting indexes volatilities by using machine learning techniques, econometric and randomized models <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
+
+  <li><b>Gonçalo Silvestre</b>, Predictive Modelling Using Machine Learning on Dealerships Profit Margin Concerning the Increase in Electric Vehicles Repairs <i>Master in Information Management, NOVA IMS, 2023.</i></li>
+
+  <li><b>Gisela Fonseca</b>, The effect of public procurment by category on innovation output <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+
+ <li><b>Bruno Esteves Borges</b>, Understanding quarterly GDP forecasts performance’s: A regional disposition. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+
+
+  <li><b>Emil Ahmadov</b>, Big tech and social networks: The intermediation power of Facebook, Google, Netflix, and other digital giant platforms. <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
+
+
+  <li><b>Oguz Kokes</b>, Investigating the delay times in academic publishing. <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
+
+  <li><b>Diogo Acabado</b>, Integração De Dados No Contexto Do Sector De Energia Solar Fotovoltaico - Um Caso De Estudo EDP <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
+
+  <li><b>Eduardo Barreto Sulz </b>, Different Approaches of Machine Learning Models in Credit Risk <i>M.Sc. Statistics and Information Management, NOVA IMS, 2023.</i></li>
+
+
+  <li><b>Sara Nunes</b>, Predicting Length of Stay in a Hospital Post-Surgery  <i>Master in Information Management, NOVA IMS, 2023.</I></li>
   <li><b>Phillip Metzger</b>, Battery patents: A quantitative analysis of innovation in battery technology and an assessment of its predictive capabilities. <i>Master in Economics and Management of Science Technology and Innovation, NOVA IMS, 2022.</i></li>
   
   <li><b>Ana Rita Carmo</b>, Industrial Espionage: Mapping Meanings and Assessing Trends. <i>Master in Data Science and Advanced Analytics, ISEG, 2022.</i></li>
@@ -129,10 +157,6 @@ Ongoing
 <ol reversed>
   <li><b>Afonso Ramos</b>, Predicting football match outcomes using Expected Threat Analysis in Portuguese Primeira Liga <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
-  <li><b>Andrea Cruz</b>, Battery research: What, who, when, how much? <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-
-  <li><b>Andrea Sánchez Licer</b>, Scientific capabilities of a high‑tech industry: The case of the Spanish pharmaceutical sector. <i>Master Information Management, NOVA IMS</i></li>
-
   <li><b>António Cymbron</b>, Soccer competitive dynamics and trademarks as a predictor of performance <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
   <li><b>Arthur Campos</b>, Nowcasting macroeconomics with google trends. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
@@ -140,8 +164,6 @@ Ongoing
   <li><b>Beatriz Farinha</b>, The effects of Golden Visas on housing market prices: applying a Synthetic control model to the portuguese market <i>M.Sc. Statistics and Information Management, NOVA IMS</i></li>
 
   <li><b>Beatriz Ferreira</b>, The OECD as the contemporary global policy hub: Scanning, screening, and sensing the OECD agenda using big data approaches <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
-
-  <li><b>Bruno Esteves Borges</b>, Understanding quarterly GDP forecasts performance’s: A regional disposition. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
 
   <li><b>Carla Laia</b>, Derivatives Optimization - Recommender System for Commodities <i>M.Sc. Information Management, NOVA IMS</i></li>
 
@@ -157,15 +179,10 @@ Ongoing
 
   <li><b>Daniela Correia</b>, Testing the predictability of cryptocurrencies returns with multivariate Markov chains. <i>Master Information Management, NOVA IMS</i></li>
 
-  <li><b>Diogo Acabado</b>, Integração De Dados No Contexto Do Sector De Energia Solar Fotovoltaico - Um Caso De Estudo EDP <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
-
-  <li><b>Eduardo Barreto Sulz </b>, Different Approaches of Machine Learning Models in Credit Risk <i>M.Sc. Statistics and Information Management, NOVA IMS</i></li>
-
   <li><b>Eliane Zanlorense</b>, The impact of food deserts on health status. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
 
   <li><b>Elsa Natália Camuamba</b>, Critical raw materials and the geo-economy of the green transition: A patent-based analysis of battery technologies <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
-  <li><b>Emil Ahmadov</b>, Big tech and social networks: The intermediation power of Facebook, Google, Netflix, and other digital giant platforms. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
 
   <li><b>Eva Sofia Gonçalves Ferrer</b>, Emergent Battery Technology: A Bibliometric Analysis of Patents and Publications <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
@@ -225,8 +242,6 @@ Ongoing
 
   <li><b>Rogerio Paulo</b>, The Multivariate Markov Chain applicability for the sequence categories of the stock market index: An approach to DJIA, S&P-500 and FTSE-100 indexes <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 <li><b>Rui Ramos</b>, Adaptative Sales Forecasting <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
-
-  <li><b>Sara Nunes</b>, Predicting Length of Stay in a Hospital Post-Surgery  <i>Master in Information Management, NOVA IMS</i></li>
 
   <li><b>Sofia Bação Martins</b>, Do investment banks publish (academically)? Assessing the intellectual capabilities of elite financial institutions. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
 
