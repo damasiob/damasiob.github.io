@@ -14,6 +14,8 @@ redirect_from:
 Academic Writting
 ======
  
+Visualization
+====== 
 
 Econometrics
 ======
