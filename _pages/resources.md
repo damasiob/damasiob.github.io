@@ -19,10 +19,11 @@ Visualization
 
 Econometrics
 ======
- * Causal Inference The Mixtape: [link](https://mixtape.scunning.com/)
+ *  [Causal Inference The Mixtape](https://mixtape.scunning.com/)
+ *  [The Effect](https://theeffectbook.net)
 
 
-Coding
+Data
 ======
 
 
