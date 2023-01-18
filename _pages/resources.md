@@ -70,6 +70,25 @@ Academic Writting
 Visualization
 ======
 
+ *  [Favorite Figures](https://paulgp.github.io/best_figures.html)
+ 
+ *  [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209)
+ 
+ *  [Data Visualization](https://kieranhealy.org/publications/dataviz/)
+ 
+ *  [The Visual Display Of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi)
+ 
+ *  [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+ 
+ *  [Data Visualization](https://kieranhealy.org/publications/dataviz/)
+
+Presentations
+======
+
+ *  [Beamer Tips for Presentations](https://github.com/paulgp/beamer-tips/blob/master/slides.pdf)
+ 
+ *  [The discussant’s art](https://chrisblattman.com/blog/2010/02/22/the-discussants-art/)
+
 Econometrics
 ======
 
@@ -84,8 +103,16 @@ Data
 
 
 
+Research (Miscellaneous)
+======
 
+ *  [Connected Papers](https://www.connectedpapers.com)
+ 
+ *  [scite_](https://scite.ai)
+ 
+ *  [Doing research](https://medium.com/@paul.niehaus/doing-research-18cb310529e0/)
 
+ *  [The 10 Commandments for Regression Tables](https://blogs.ubc.ca/khead/research/research-advice/regression-tables)
 
 
 
