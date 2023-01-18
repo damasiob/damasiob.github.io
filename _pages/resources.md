@@ -13,8 +13,8 @@ redirect_from:
 
 Academic Writting
 ======
- *  [The Elements of Style  ](http://www.jlakes.org/ch/web/The-elements-of-style.pdf )
- 
+ *  [The Elements of Style  ](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
+ 
  *  [On Writing Well ](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
  
  *  [Notes on Writing](https://richard-langlois.uconn.edu/home/notes-on-writing/about-these-notes/ )
