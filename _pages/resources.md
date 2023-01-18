@@ -31,7 +31,7 @@ Visualization
 Econometrics
 ======
  *  [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
- *  [The Effect](https://theeffectbook.net)
+ *  [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net)
 
 
 Data
