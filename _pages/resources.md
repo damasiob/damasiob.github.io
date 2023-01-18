@@ -29,7 +29,7 @@ Academic Writting
  
  *  [Conclusion Formula ](https://marcfbellemare.com/wordpress/12060)
  
- *  [Reverse Outlines]( https://writing.wisc.edu/handbook/process/reverseoutlines/  )![image](https://user-images.githubusercontent.com/93660662/213232637-fe84a49e-8588-4bd6-8227-b50688fd767c.png)
+ *  [Reverse Outlines](https://writing.wisc.edu/handbook/process/reverseoutlines/)
  
  *  [The Ten Most Important Rules of Writing Your Job Market Paper](http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf)
 
