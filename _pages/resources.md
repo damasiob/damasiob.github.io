@@ -13,9 +13,9 @@ redirect_from:
 
 Academic Writting
 ======
- *  [The Elements of Style  ](http://www.jlakes.org/ch/web/The-elements-of-style.pdf )
+ *  [The Elements of Style  ](http://www.jlakes.org/ch/web/The-elements-of-style.pdf )
  
- *  [On Writing Well ](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
+ *  [On Writing Well ](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
  
  *  [Notes on Writing](https://richard-langlois.uconn.edu/home/notes-on-writing/about-these-notes/ )
  
@@ -31,15 +31,15 @@ Academic Writting
  
  *  [Reverse Outlines](https://writing.wisc.edu/handbook/process/reverseoutlines/)
  
- *  [The Ten Most Important Rules of Writing Your Job Market Paper](http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf)
+ *  [The Ten Most Important Rules of Writing Your Job Market Paper](http://home.bi.no/charlotte.ostergaard/students/tenruleswriting.pdf)
 
- *  [Paper writing gone Hollywood](https://www.science.org/doi/10.1126/science.355.6320.102)
+ *  [Paper writing gone Hollywood](https://www.science.org/doi/10.1126/science.355.6320.102)
 
- *  [Resources for Writing Well](https://static1.squarespace.com/static/57d5edcf197aea51693538dc/t/5f975fd031e9ee561a6dbd19/1603755986109/writing_0.pdf/)
+ *  [Resources for Writing Well](https://static1.squarespace.com/static/57d5edcf197aea51693538dc/t/5f975fd031e9ee561a6dbd19/1603755986109/writing_0.pdf/)
 
- *  [How to Publish in Academic Journals](https://marcfbellemare.com/wordpress/wp-content/uploads/2017/06/BellemareAAEAEarlyCareerWorkshop.pdf)
+ *  [How to Publish in Academic Journals](https://marcfbellemare.com/wordpress/wp-content/uploads/2017/06/BellemareAAEAEarlyCareerWorkshop.pdf)
 
- *  [Practical Tips for Writing and Publishing Applied Economics Papers](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/59d73b99f43b5586a0484a22/1507277732282/beatty_shimshack_applied_econ_papers.pdf)
+ *  [Practical Tips for Writing and Publishing Applied Economics Papers](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/59d73b99f43b5586a0484a22/1507277732282/beatty_shimshack_applied_econ_papers.pdf)
  
  *  [Top tips to turn your Thesis Into an Article](https://www.elsevier.com/connect/authors-update/eight-top-tips-to-help-you-turn-your-phd-thesis-into-an-article)
  
@@ -59,7 +59,7 @@ Academic Writting
  
  *  [11 Steps to Structuring a Science Paper Editors Will Take Seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
  
- *  [Top Tips to Keep in Mind While Writing Your Next Research Paper](https://www.editage.com/all-about-publication/research/Top-tips-to-keep-in-mind-while-writing-your-next-research-paper.html)
+ *  [Top Tips to Keep in Mind While Writing Your Next Research Paper](https://www.editage.com/all-about-publication/research/Top-tips-to-keep-in-mind-while-writing-your-next-research-paper.html)
  
  *  [Best Tips for Publishing Research: Advice from Global Researchers](https://www.aje.com/arc/tips-for-publishing-research/ )
  
