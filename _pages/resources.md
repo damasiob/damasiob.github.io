@@ -19,14 +19,14 @@ Visualization
 
 Econometrics
 ======
- *  [Causal Inference The Mixtape](https://mixtape.scunning.com/)
+ *  [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
  *  [The Effect](https://theeffectbook.net)
 
 
 Data
 ======
 
-
+ *  [Where to find data? A Primer](https://dsebastiantello.files.wordpress.com/2018/08/where-to-find-data-a-primer.pdf)
 
 
 
