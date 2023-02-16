@@ -183,10 +183,7 @@ Ongoing
 
   <li><b>Elsa Natália Camuamba</b>, Critical raw materials and the geo-economy of the green transition: A patent-based analysis of battery technologies <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
-
   <li><b>Eva Sofia Gonçalves Ferrer</b>, Emergent Battery Technology: A Bibliometric Analysis of Patents and Publications <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
-
-  <li><b>Filipa Guimarães</b>, What is the impact of golden visas on housing market? <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
   <li><b>Francisco Ornelas</b>, Corporate reports and the changing sentiment of economic power: Text mining your way into the soul of capitalism <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
@@ -233,8 +230,6 @@ Ongoing
   <li><b>Muhammad Abdullah</b>, Machine Learning Predictive Modelling at Tranquilidade <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
   <li><b>Nuno Galhofo</b>, Money laundering ‑ a quantitative analysis of knowledge production and its economics and social influence. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-
-  <li><b>Pedro Costa Sequeira</b>, Tests of predictability in Cryptocurrency Markets <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
   <li><b>Raquel de Assis Pinho</b>, Green Patents: Global competitiveness in a critical "societal challenges" arena <i>M.Sc. Information Management, NOVA IMS</i></li>
 
