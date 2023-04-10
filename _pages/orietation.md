@@ -40,13 +40,31 @@ Concluded
 
 <ol reversed>
   
+   <li><b>Pedro Castro</b>, Beyond Econometrics: Using Google Trends and Social Media Data to Forecast Unemployment - OECD analysis of accuracy gains and robustness of predictions <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
+  
+   <li><b>Arthur Campos</b>, Multi-country Analysis of Unemployment Rate Nowcasting During Covid-19 With Search Query Data <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  
+  <li><b>Nuno Galhofo</b>, Money Laundering - A quantitative analysis of knowledge production and its economics and social influence <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  
+     <li><b>Andreia Taboleiros</b>, Public Procurement As A Policy Tool For Growth <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  
+       <li><b>Diogo Miguel</b>, Accessing the impact of covid-19 on the portuguese unemployment rate <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  
+       <li><b>Leonor Morgado</b>, Predicting Individual Guarantee based on Energy Consumption <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
+ 
+     <li><b>Miguel Panzo</b>, Análise de Assimetrias na Região do Alentejo e do Algarve <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+
+     <li><b>Lara Faria</b>, The Macroeconomic Impact of Jair Bolsonaro: A Synthetic Control Approach <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+ 
+         <li><b>Virgínia Gomes</b>, Desenvolvimento da Evalyze, uma plataforma web de gestão de operações a fim de automatizar e otimizar a distribuição, priorização e monitorização de tarefas, NOVA IMS, 2023.</i></li>
+         
+   <li><b>Guilherme Silvestre </b>, Revenue Assurance: Unicre <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  
    <li><b>Andrea Cruz</b>, Battery research: What, who, when, how much? <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
 
   <li><b>Andrea Sánchez Licer</b>, Scientific capabilities of a high‑tech industry: The case of the Spanish pharmaceutical sector. <i>Master Information Management, NOVA IMS, 2023.</i></li>
 
-
   <li><b>Ana Luisa Mestre</b>, A Scientometric Analysis to Study the Trends on Nuclear Weapons-Related Research <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
-
 
   <li><b>Francisco Bettencourt</b>, Forecasting indexes volatilities by using machine learning techniques, econometric and randomized models <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
 
@@ -159,8 +177,6 @@ Ongoing
 
   <li><b>António Cymbron</b>, Soccer competitive dynamics and trademarks as a predictor of performance <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
-  <li><b>Arthur Campos</b>, Nowcasting macroeconomics with google trends. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-
   <li><b>Beatriz Farinha</b>, The effects of Golden Visas on housing market prices: applying a Synthetic control model to the portuguese market <i>M.Sc. Statistics and Information Management, NOVA IMS</i></li>
 
   <li><b>Beatriz Ferreira</b>, The OECD as the contemporary global policy hub: Scanning, screening, and sensing the OECD agenda using big data approaches <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
@@ -203,8 +219,6 @@ Ongoing
 
   <li><b>Jonas de Sousa Mendoza</b>, An editormetrics and bibliometrics approach to map and measure the impact of editorial boards on health journals <i>M.Sc. Statistics and Information Management, NOVA IMS</i></li>
 
-  <li><b>Lara Faria</b>, Policy evaluation: A synthetic control method approach. <i>Master Information Management, NOVA IMS</i></li>
-
   <li><b>Leonor Porto</b>, Estimating the probability of winning a public procurement bid: A zero‑inflated poisson regression approach. <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
 
   <li><b>Luís Casado</b>, The econometrics of knowledge: Central banks as power‑houses of scientific breakthroughs. <i>Master in Applied Econometrics and Forecasting, ISEG</i></li>
@@ -225,11 +239,7 @@ Ongoing
 
   <li><b>Miguel Lopes</b>, Cryptocurrencies Prediction Using ML models <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
-  <li><b>Miguel Panzo</b>, The Algarve railway line as a “Regional metro”: Impacts on mobility, economy and carbon emissions. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
-
   <li><b>Muhammad Abdullah</b>, Machine Learning Predictive Modelling at Tranquilidade <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
-
-  <li><b>Nuno Galhofo</b>, Money laundering ‑ a quantitative analysis of knowledge production and its economics and social influence. <i>Master in Statistics and Information Management, NOVA IMS</i></li>
 
   <li><b>Raquel de Assis Pinho</b>, Green Patents: Global competitiveness in a critical "societal challenges" arena <i>M.Sc. Information Management, NOVA IMS</i></li>
 
@@ -243,8 +253,6 @@ Ongoing
   <li><b>Tomás Jordão</b>, Multivariate Markov Chains as Stochastic Covariates - An application in R <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
   <li><b>Tomás Ricardo</b>, Estimating Value at Risk assuming Pareto Tails: a semiparametric approach. Case study for Cryptocurrencies. <i>M.Sc. Statistics and Information Management, NOVA IMS</i></li>
-
-  <li><b>Virgínia Gomes</b>, Desenvolvimento da Evalyze, uma plataforma web de gestão de operações a fim de automatizar e otimizar a distribuição, priorização e monitorização de tarefas. <i>M.Sc. Statistics and Information Management, NOVA IMS</i></li>
 
   <li><b>Zukiswa Mdingi</b>, Assessing transactional data as an additional data source that can be used to assess the impact of Covid-19 on household expenditure: A case study of South Africa.  <i>M.Sc. Statistics and Information Management, NOVA IMS</i></li>
 
