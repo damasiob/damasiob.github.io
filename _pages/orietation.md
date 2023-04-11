@@ -40,37 +40,37 @@ Concluded
 
 <ol reversed>
   
-   <li><b>Pedro Castro</b>, Beyond Econometrics: Using Google Trends and Social Media Data to Forecast Unemployment - OECD analysis of accuracy gains and robustness of predictions <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
+   <li><b>Pedro Castro</b>, Beyond Econometrics: Using Google Trends and Social Media Data to Forecast Unemployment - OECD analysis of accuracy gains and robustness of predictions. <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
   
-   <li><b>Arthur Campos</b>, Multi-country Analysis of Unemployment Rate Nowcasting During Covid-19 With Search Query Data <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+   <li><b>Arthur Campos</b>, Multi-country Analysis of Unemployment Rate Nowcasting During Covid-19 With Search Query Data. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
-  <li><b>Nuno Galhofo</b>, Money Laundering - A quantitative analysis of knowledge production and its economics and social influence <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  <li><b>Nuno Galhofo</b>, Money Laundering - A quantitative analysis of knowledge production and its economics and social influence. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
-     <li><b>Andreia Taboleiros</b>, Public Procurement As A Policy Tool For Growth <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+     <li><b>Andreia Taboleiros</b>, Public Procurement As A Policy Tool For Growth. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
-       <li><b>Diogo Miguel</b>, Accessing the impact of covid-19 on the portuguese unemployment rate <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+       <li><b>Diogo Miguel</b>, Accessing the impact of covid-19 on the portuguese unemployment rate. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
-       <li><b>Leonor Morgado</b>, Predicting Individual Guarantee based on Energy Consumption <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
+       <li><b>Leonor Morgado</b>, Predicting Individual Guarantee based on Energy Consumption. <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
  
-     <li><b>Miguel Panzo</b>, Análise de Assimetrias na Região do Alentejo e do Algarve <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+     <li><b>Miguel Panzo</b>, Análise de Assimetrias na Região do Alentejo e do Algarve. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
 
-     <li><b>Lara Faria</b>, The Macroeconomic Impact of Jair Bolsonaro: A Synthetic Control Approach <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+     <li><b>Lara Faria</b>, The Macroeconomic Impact of Jair Bolsonaro: A Synthetic Control Approach. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
  
-         <li><b>Virgínia Gomes</b>, Desenvolvimento da Evalyze, uma plataforma web de gestão de operações a fim de automatizar e otimizar a distribuição, priorização e monitorização de tarefas, NOVA IMS, 2023.</i></li>
+         <li><b>Virgínia Gomes</b>, Desenvolvimento da Evalyze, uma plataforma web de gestão de operações a fim de automatizar e otimizar a distribuição, priorização e monitorização de tarefas.<i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
          
-   <li><b>Guilherme Silvestre </b>, Revenue Assurance: Unicre <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+   <li><b>Guilherme Silvestre </b>, Revenue Assurance: Unicre. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
    <li><b>Andrea Cruz</b>, Battery research: What, who, when, how much? <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
 
   <li><b>Andrea Sánchez Licer</b>, Scientific capabilities of a high‑tech industry: The case of the Spanish pharmaceutical sector. <i>Master Information Management, NOVA IMS, 2023.</i></li>
 
-  <li><b>Ana Luisa Mestre</b>, A Scientometric Analysis to Study the Trends on Nuclear Weapons-Related Research <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
+  <li><b>Ana Luisa Mestre</b>, A Scientometric Analysis to Study the Trends on Nuclear Weapons-Related Research. <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
 
-  <li><b>Francisco Bettencourt</b>, Forecasting indexes volatilities by using machine learning techniques, econometric and randomized models <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
+  <li><b>Francisco Bettencourt</b>, Forecasting indexes volatilities by using machine learning techniques, econometric and randomized models. <i>Master in Data Science and Advanced Analytics, NOVA IMS, 2023.</i></li>
 
-  <li><b>Gonçalo Silvestre</b>, Predictive Modelling Using Machine Learning on Dealerships Profit Margin Concerning the Increase in Electric Vehicles Repairs <i>Master in Information Management, NOVA IMS, 2023.</i></li>
+  <li><b>Gonçalo Silvestre</b>, Predictive Modelling Using Machine Learning on Dealerships Profit Margin Concerning the Increase in Electric Vehicles Repairs. <i>Master in Information Management, NOVA IMS, 2023.</i></li>
 
-  <li><b>Gisela Fonseca</b>, The effect of public procurment by category on innovation output <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  <li><b>Gisela Fonseca</b>, The effect of public procurment by category on innovation output. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
 
  <li><b>Bruno Esteves Borges</b>, Understanding quarterly GDP forecasts performance’s: A regional disposition. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
 
