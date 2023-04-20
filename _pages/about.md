@@ -21,6 +21,10 @@ My Research Statement
 Recent Publications
 ======
 
+* Metzger, P., Mendonça, S., Silva, J. A., & Damásio, B. (2023). Battery innovation and the Circular Economy: What are patents revealing?. Renewable Energy.
+* Vaz, E., Damásio, B., Bação, F., Shaker, R. R., & Penfound, E. (2023). Urban habitats and food insecurity: Lessons learned throughout a pandemic. Habitat International, 135, 102779.
+* Damásio, B., & Mendonça, S. (2023). Leader-follower dynamics in real historical time: A Markovian test of non-linear causality between sail and steam (co-) development. Applied Economics, 55(17), 1908-1918.
+* Lyra, M. S., Damásio, B., Pinheiro, F. L., & Bacao, F. (2022). Fraud, corruption, and collusion in public procurement activities, a systematic literature review on data-driven methods. Applied Network Science, 7(1), 83.
 * Lehmann, C., Cruz-Jesus, F., Oliveira, T., & Damásio, B. (2022). Leveraging the circular economy: Investment and innovation as drivers. Journal of Cleaner Production, 132146.
 * Mendonça, S., Damásio, B., Santiago, F., Chen, M., Santos, A. B., Cunha, M. P., & Nicita, A. (2022). Strategic Encounters in Innovation and Regulation: Healthcare transformation in the Era of Digital Connectivity; Comment on “What Managers Find Important for Implementation of Innovations in the Healthcare Sector–Practice Through Six Management Perspectives”. International Journal of Health Policy and Management, (Articles in Press). 
 * Paredes, A., Mendonça, J., Bação, F., & Damásio, B. (2022). Does R&D tax credit impact firm behaviour? Micro evidence for Portugal. Research Evaluation, 31(2), 226-235.
