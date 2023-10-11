@@ -65,6 +65,12 @@ Academic Writting
  *  [Best Tips for Publishing Research: Advice from Global Researchers](https://www.aje.com/arc/tips-for-publishing-research/)
  
  *  [3 Tips When Writing Your First Scientific Research Paper](https://www.enago.com/academy/writing-first-scientific-research-paper/)
+
+ *  [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/)
+
+ *  [Responding to Peer Review](https://matt.might.net/articles/peer-review-rebuttals/)
+
+
  
 
 Visualization
