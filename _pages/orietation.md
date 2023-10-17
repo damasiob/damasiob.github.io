@@ -46,17 +46,17 @@ Concluded
   
   <li><b>Nuno Galhofo</b>, Money Laundering - A quantitative analysis of knowledge production and its economics and social influence. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
-     <li><b>Andreia Taboleiros</b>, Public Procurement As A Policy Tool For Growth. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  <li><b>Andreia Taboleiros</b>, Public Procurement As A Policy Tool For Growth. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
-       <li><b>Diogo Miguel</b>, Accessing the impact of covid-19 on the portuguese unemployment rate. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  <li><b>Diogo Miguel</b>, Accessing the impact of covid-19 on the portuguese unemployment rate. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
-       <li><b>Leonor Morgado</b>, Predicting Individual Guarantee based on Energy Consumption. <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
+  <li><b>Leonor Morgado</b>, Predicting Individual Guarantee based on Energy Consumption. <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
  
-     <li><b>Miguel Panzo</b>, Análise de Assimetrias na Região do Alentejo e do Algarve. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  <li><b>Miguel Panzo</b>, Análise de Assimetrias na Região do Alentejo e do Algarve. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
 
-     <li><b>Lara Faria</b>, The Macroeconomic Impact of Jair Bolsonaro: A Synthetic Control Approach. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  <li><b>Lara Faria</b>, The Macroeconomic Impact of Jair Bolsonaro: A Synthetic Control Approach. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
  
-         <li><b>Virgínia Gomes</b>, Desenvolvimento da Evalyze, uma plataforma web de gestão de operações a fim de automatizar e otimizar a distribuição, priorização e monitorização de tarefas.<i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+  <li><b>Virgínia Gomes</b>, Desenvolvimento da Evalyze, uma plataforma web de gestão de operações a fim de automatizar e otimizar a distribuição, priorização e monitorização de tarefas.<i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
          
    <li><b>Guilherme Silvestre </b>, Revenue Assurance: Unicre. <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
   
