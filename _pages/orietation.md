@@ -39,6 +39,12 @@ Concluded
 ---
 
 <ol reversed>
+
+  <li><b>Helena Oliveira</b>, Decoding the Secrets of Environmental Journals: Unraveling Journal Rankings through Text Mining and Predictive Analysis <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
+
+  <li><b>Rogerio Paulo</b>, The application of hedonic price models in the estimation of effective and imputed rents of housing: A case study on the 2021 housing census data in Portugal. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
+
+  <li><b>Leonor Porto</b>, Decoding Success with Zero-Inflated and Hurdle Models: Unveiling the Winning Strategies in Portuguese Public Procurement Activity <i>Master in Data Science and Advanced Analytics, NOVA IMS</i></li>
   
    <li><b>Pedro Castro</b>, Beyond Econometrics: Using Google Trends and Social Media Data to Forecast Unemployment - OECD analysis of accuracy gains and robustness of predictions. <i>Master in Data Science and Anvanced Analytics, NOVA IMS, 2023.</i></li>
   
