@@ -21,6 +21,7 @@ My Research Statement
 Recent Publications
 ======
 
+* Damásio, B., & Nicolau, J. (2024). Time inhomogeneous multivariate Markov chains: Detecting and testing multiple structural breaks occurring at unknown dates. Chaos, Solitons & Fractals, 180, 114478.
 * Metzger, P., Mendonça, S., Silva, J. A., & Damásio, B. (2023). Battery innovation and the Circular Economy: What are patents revealing?. Renewable Energy.
 * Vaz, E., Damásio, B., Bação, F., Shaker, R. R., & Penfound, E. (2023). Urban habitats and food insecurity: Lessons learned throughout a pandemic. Habitat International, 135, 102779.
 * Damásio, B., & Mendonça, S. (2023). Leader-follower dynamics in real historical time: A Markovian test of non-linear causality between sail and steam (co-) development. Applied Economics, 55(17), 1908-1918.
