@@ -39,12 +39,18 @@ Concluded
 ---
 
 <ol reversed>
+  
+   <li><b>Gonçalo Silva</b>, Mapping a Co-competition Network of the Portuguese Public Procurement Market. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
+   <li><b>Marta Sacavém</b>, The Intellectual Evolution of Wireless Generations: A long-run perspective on technological innovation. <i> M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
+
+   <li><b>João Duarte</b>, Where did covid-19 result in structural breaks within the EU? <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
+   
    <li><b>Helena Oliveira</b>, Decoding the Secrets of Environmental Journals: Unraveling Journal Rankings through Text Mining and Predictive Analysis <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2023 </i></li>
 
    <li><b>Tomás Ricardo</b>, Estimating Value at Risk Assuming Pareto Tails: a Semiparametric Approach <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2023 </i></li>
    
-   <li><b>Isabella Rubio </b>, Tests of Predictability in Cryptocurrency Markets <i>M.Sc. Data Science and Advanced Analytics, <i>Master in Statistics and Information Management, NOVA IMS, 2023.</i></li>
+   <li><b>Isabella Rubio </b>, Tests of Predictability in Cryptocurrency Markets <i>M.Sc.  in Statistics and Information Management, NOVA IMS, 2023.</i></li>
  
   <li><b>Rogerio Paulo</b>, The application of hedonic price models in the estimation of effective and imputed rents of housing: A case study on the 2021 housing census data in Portugal. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS</i></li>
 
