@@ -39,7 +39,15 @@ Concluded
 ---
 
 <ol reversed>
-  
+   
+   <li><b>Rodolfo Tavaresn</b>, Exploring The Linear And Non-linear Effect Of Tourism On Economic Growth In Cabo Verde: Evidence From ARDL And NARDL Models. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
+   
+   <li><b>Mariana Santos</b>, Cryptocurrency Rollercoaster: Volatility Patterns and Market Dynamics in Positive and Negative Events. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
+   
+   <li><b>Raquel Pinho</b>, Green Hydrogen Breakout: The scientific community contribution. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
+   
+   <li><b>Jonas Mendonza</b>, Gatekeeping Energy Economics studies: a dynamic "editormetrics" perspective. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
+   
    <li><b>Gonçalo Silva</b>, Mapping a Co-competition Network of the Portuguese Public Procurement Market. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
    <li><b>Marta Sacavém</b>, The Intellectual Evolution of Wireless Generations: A long-run perspective on technological innovation. <i> M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
