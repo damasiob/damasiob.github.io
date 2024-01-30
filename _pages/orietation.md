@@ -40,7 +40,7 @@ Concluded
 
 <ol reversed>
    
-   <li><b>Rodolfo Tavaresn</b>, Exploring The Linear And Non-linear Effect Of Tourism On Economic Growth In Cabo Verde: Evidence From ARDL And NARDL Models. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
+   <li><b>Rodolfo Tavares</b>, Exploring The Linear And Non-linear Effect Of Tourism On Economic Growth In Cabo Verde: Evidence From ARDL And NARDL Models. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
    
    <li><b>Mariana Santos</b>, Cryptocurrency Rollercoaster: Volatility Patterns and Market Dynamics in Positive and Negative Events. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
    
