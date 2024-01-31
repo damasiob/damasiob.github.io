@@ -43,6 +43,8 @@ Concluded
    <li><b>Rodolfo Tavares</b>, Exploring The Linear And Non-linear Effect Of Tourism On Economic Growth In Cabo Verde: Evidence From ARDL And NARDL Models. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
    
    <li><b>Mariana Santos</b>, Cryptocurrency Rollercoaster: Volatility Patterns and Market Dynamics in Positive and Negative Events. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
+
+   <li><b>Diogo Gonçalves</b>, The impact of Video Assistant Referee in the performance of Football Referees in the Portuguese League. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
    
    <li><b>Raquel Pinho</b>, Green Hydrogen Breakout: The scientific community contribution. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
    
