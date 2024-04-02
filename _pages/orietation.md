@@ -44,18 +44,23 @@ Concluded
    
    <li><b>Mariana Santos</b>, Cryptocurrency Rollercoaster: Volatility Patterns and Market Dynamics in Positive and Negative Events. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
 
+  <li><b>João Duarte</b>, Economic Dynamics: Analyzing Structural Breaks and Covid-19 Responses Worldwide. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
+
    <li><b>Diogo Gonçalves</b>, The impact of Video Assistant Referee in the performance of Football Referees in the Portuguese League. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
+
+   <li><b>Eva Ferrer</b>, The Evolutionary Dynamics of Battery Technology: A Knowledge-Based Assessment from Article Publications. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
+
+   <li><b>José Dias</b>, Estágio - Modelo de Estimativa de Potencial de jogadores de Futebol. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
    
    <li><b>Raquel Pinho</b>, Green Hydrogen Breakout: The scientific community contribution. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
-   
+
+  <li><b>Beatriz Farinha</b>, The effects of Golden Visas on housing market prices: applying a Synthetic control model to the portuguese market. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
    <li><b>Jonas Mendonza</b>, Gatekeeping Energy Economics studies: a dynamic "editormetrics" perspective. <i>M.Sc. Statistics and Information Management, NOVA IMS, 2024 </i></li>
    
    <li><b>Gonçalo Silva</b>, Mapping a Co-competition Network of the Portuguese Public Procurement Market. <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
    <li><b>Marta Sacavém</b>, The Intellectual Evolution of Wireless Generations: A long-run perspective on technological innovation. <i> M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
 
-   <li><b>João Duarte</b>, Where did covid-19 result in structural breaks within the EU? <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
-   
    <li><b>Helena Oliveira</b>, Decoding the Secrets of Environmental Journals: Unraveling Journal Rankings through Text Mining and Predictive Analysis <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2023 </i></li>
 
    <li><b>Tomás Ricardo</b>, Estimating Value at Risk Assuming Pareto Tails: a Semiparametric Approach <i>M.Sc. Data Science and Advanced Analytics, NOVA IMS, 2023 </i></li>
