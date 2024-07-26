@@ -18,6 +18,9 @@ Ongoing
 ----
     
 <ol reversed>
+
+  <li><b>Catarina Cardoso</b>, Communicating technology in American and Chinese international media: what do the news say? <i>Ph.D. in International Studies, ISCTE</i></li>
+  
    <li><b>Luis Manica</b>, State aid in very high-capacity networks - Understanding the policy drivers in France, Portugal, Spain and United Kingdom. <i>Ph.D. in Public Policy , ISCTE</i></li>
    
   <li><b>Eduardo Magalhães e Silva</b>, A scientometric approach to digital platforms: Knowledge sources, processes and impacts of “Big Tech”
