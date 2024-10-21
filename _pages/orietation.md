@@ -55,6 +55,8 @@ Concluded
 
   <li><b>Diogo Bulhosa Pinto</b>, Communities susceptibility to collusion in the Portuguese Procurement System: An analysis of communities generated in a co-bidding firm-to-firm network <i> M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
+  <li><b>Ana Sofia Mendonça</b>, Analyzing Smart Textiles: A Bibliometric Analysis and Systematic Review <i> M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
+
   <li><b>Valentin Lennart Heß</b>, Machine Learning in Banking Risk Management: Mapping a Decade of Evolution. <i> M.Sc. in Information Management, NOVA IMS, 2024 </i></li>
 
 
