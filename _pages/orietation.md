@@ -49,21 +49,21 @@ Concluded
 
 <ol reversed>
 
-  <li><b>Beatriz Carmo</b>, Asking ChatGPT - Multiple Choice Questions Performance and Accuracy. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
+  <li><b>Beatriz Carmo</b>, Asking ChatGPT - Multiple Choice Questions Performance and Accuracy. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
- <li><b>Isabel Dias</b>, The concern for literature self-correction in biomedicine: A bibliometric analysis of retractions. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
+ <li><b>Isabel Dias</b>, The concern for literature self-correction in biomedicine: A bibliometric analysis of retractions. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
  <li><b>Daniela Martins</b>, The Regional Economic Impact of Wildfires: Following a Synthetic Control Approach. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
 
-<li><b>Elsa Camuamba</b>, Mineral intensity in battery innovation. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
+<li><b>Elsa Camuamba</b>, Mineral intensity in battery innovation. <i>M.Sc. in SData Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
- <li><b>Beatriz Alves de Sousa</b>, Electric vehicles batteries: Examining knowledge tracks through patented and published technologies. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
+ <li><b>Beatriz Alves de Sousa</b>, Electric vehicles batteries: Examining knowledge tracks through patented and published technologies. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
  <li><b>Zukiswa Mdingi</b>, A Bibliometric Analysis on the use of Big Data Sources in the Compilation of Official Statistics. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
 
- <li><b>Bruno Esteves</b>, Estimating the Determinants of Spanish La Liga Teams' Performance. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
+ <li><b>Bruno Esteves</b>, Estimating the Determinants of Spanish La Liga Teams' Performance. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
- <li><b>Afonso Reyna</b>, Cross-Market Influences on Cryptocurrencies: A Multivariate Markov Chain Perspective. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
+ <li><b>Afonso Reyna</b>, Cross-Market Influences on Cryptocurrencies: A Multivariate Markov Chain Perspective. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
  <li><b>João Miranda</b>, The Predictive Power of Google Trends in the Portuguese Football Club Stock Markets. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
 
