@@ -13,7 +13,18 @@ redirect_from:
 
 PhD
 ======
+
+Concluded
+----
+    
+<ol reversed>
   
+<li><b>Alexandre Paredes</b>, Firm-level effects of the Portuguese R&D tax credit: a microeconomic and sectoral analysis <i>Ph.D. in Information Management. Specialization Fields: Information Systems, NOVA IMS</i></li>
+</ol>
+  
+<br>
+
+
 Ongoing
 ----
     
@@ -35,9 +46,6 @@ big‑data computational approach to the scientometric study of leading global p
   
   <li><b>Renato Lains Mota</b>, Data‑driven healthcare business models: Understanding the determinants
 of success and sustainability. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
-  
-  <li><b>Alexandre Paredes</b>, The impacts of R&D expenditure on innovation and scientific employment. <i>Ph.D. in Information Management. Specialization Fields: Information Systems, NOVA IMS</i></li>
-</ol>
   
 <br>
 
