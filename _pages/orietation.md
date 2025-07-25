@@ -46,6 +46,7 @@ big‑data computational approach to the scientometric study of leading global p
   
   <li><b>Renato Lains Mota</b>, Data‑driven healthcare business models: Understanding the determinants
 of success and sustainability. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
+</ol>
   
 <br>
 
