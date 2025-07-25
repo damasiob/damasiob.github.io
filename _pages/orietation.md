@@ -57,9 +57,20 @@ Concluded
 
 <ol reversed>
 
-  <li><b>Beatriz Carmo</b>, Asking ChatGPT - Multiple Choice Questions Performance and Accuracy. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
+<li><b>Maxwell Marcos</b>, Estimating the Long-Term, Heterogeneous Impact of Voucher Incentives on Customer Purchase Frequency within the iFood Ecosystem: A use case of using machine learning and causal inference to address heterogeneous effects estimation. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
 
- <li><b>Isabel Dias</b>, The concern for literature self-correction in biomedicine: A bibliometric analysis of retractions. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
+<li><b>Guilherme Duarte</b>, AI, uses and abuses: Mapping and monitoring benefits and risks of Artificial Intelligence in FinTech. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Jaime Kuei</b>, Heterogeneous Treatment Effects in Loyalty Programs: A Study Case of Causal Inference Approach to Understanding Customer Behaviour. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+
+<li><b>Rui Figueiras</b>, Estimação dos Determinantes do Desempenho das Equipas de Futebol na Primeira Divisão Portuguesa. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+  
+<li><b>Mafalda Serrano</b>, Modelling Early Withdrawals in Term Deposits: Case of a Portuguese Bank. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
+
+<li><b>Beatriz Carmo</b>, Asking ChatGPT - Multiple Choice Questions Performance and Accuracy. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
+
+<li><b>Isabel Dias</b>, The concern for literature self-correction in biomedicine: A bibliometric analysis of retractions. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2024 </i></li>
 
  <li><b>Daniela Martins</b>, The Regional Economic Impact of Wildfires: Following a Synthetic Control Approach. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2024 </i></li>
 
