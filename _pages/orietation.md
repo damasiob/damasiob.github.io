@@ -42,11 +42,11 @@ big‑data computational approach to the scientometric study of leading global p
 
  <li><b>Elsa Camuamba</b>, Data Science for Risk Assessment in Public Procurement.  <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
 
- <li><b>Isabel Dias</b>, Artificial Intelligence for Audit.  <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
+ <li><b>Isabel Dias</b>, Smarter Audit with Risk-based Sampling.  <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
   
   <li><b>Luís Baltazar</b>, Data science for regulatory impact assessment. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
   
-  <li><b>Lígia Ernesto</b>, Health innovation enablers: Data‑driven paths and effectiveness.<i> Ph.D. in Management. Specialization Field: Strategy and Entrepreneurship, ISCTE</i></li>
+  <li><b>Lígia Ernesto</b>, Health innovation enablers: Data‑driven paths and effectiveness. <i> Ph.D. in Management. Specialization Field: Strategy and Entrepreneurship, ISCTE</i></li>
 
   <li><b>Nikola Tasev</b>, Access to External Financing of SMEs. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
 
