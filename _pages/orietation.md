@@ -24,7 +24,7 @@ Concluded
   
 <br>
 
-
+<!---
 Ongoing
 ----
     
@@ -60,7 +60,7 @@ of success and sustainability. <i>Ph.D. in Information Management. Specializatio
 </ol>
   
 <br>
-
+-->
 MSc
 ======
 
