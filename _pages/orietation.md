@@ -58,9 +58,9 @@ of success and sustainability. <i>Ph.D. in Information Management. Specializatio
 <li><b>Samuel Santos </b>, Data Science of Education. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
 
 </ol>
-  
-<br>
 -->
+<br>
+
 MSc
 ======
 
@@ -69,12 +69,62 @@ Concluded
 
 <ol reversed>
 
+<li><b>Matilde Parreira</b>, Benchmarking Efficiency in Public Service Delivery: A Geospatial Approach to Instituto dos Registos e Notariado I.P. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Sofia Tátá</b>, Measuring the Impact of Regulatory Costs in Portuguese Firms Productivity: A Quantile Regression Approach. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Emília Santos</b>, Exploring Efficiency Analysis in Tennis with Data Envelopment Analysis: A Quantitative Approach to Assessing Players Performance. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Simão Baptista</b>, Money Laundering and Fraud detection under concept drift: A Systematic Review. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Mariana Novo</b>, Efficiency in Public Procurement of Healthcare Services: A Quantitative Analysis of Portuguese Contracts. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Gabriel Gomes</b>, Causal Effects of Public Procurement on SME Performance: Evidence from Portugal. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2025 </i></li>
+
+<li><b>Maria do Mar Bazaliza</b>, Gatekeeping Knowledge: Editorial Influence in Tourism, Leisure, and Hospitality. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2025 </i></li>
+
+<li><b>Ana Rita Silva</b>, Anomaly Detection in Portuguese Public Procurement Contracts: An Embedding-Based Machine Learning Approach. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Guilherme Curioso</b>, When Categorizing Costs You Accuracy:Trade-offs in Applying Multivariate Markov Chains. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Ekaterina Belova</b>, Corporate reports and the changing sentiment of economic power: Text mining your way into the soul of capitalism. <i>M.Sc. in Data Driven Marketing, NOVA IMS, 2025 </i></li>
+
+<li><b>João Saragoça Martins</b>, Soccer competitive dynamics and trademarks as predictor of performance. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Manuel Gonçalves</b>, Assessing the Impact of Parental Allowance on Fertility: A Synthetic Control Study of Germany. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Ana Almeida</b>, AI Ethics Guidelines: Is Regulation a value of trust?. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2025 </i></li>
+
+<li><b>Luis Santos</b>, The Impact of VAR on Effective Playing Time: Evidence from Portuguese Football. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Andreia Rio</b>, The Portuguese Case: Factors Behind the Emergence of the Radical Right
+. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Mohamed Aziz Segni</b>, Estimation of Determinants of Football Teams' Performances. <i>M.Sc. in Data Information Management, NOVA IMS, 2025 </i></li>
+
+<li><b>Samuel Cavalcante Maciel</b>, Monetary Policy Shocks in the Euro Area: A New Measure Using EONIA and ESTER. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2025 </i></li>
+
+<li><b>Rúben Machado</b>, Sports for All: Editorial Gatekeeping in Sport Management and Sports Economics. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2025 </i></li>
+
+<li><b>Joana Gonçalves</b>, Closing the Solar Loop - Sustainability Trends in Photovoltaic Research. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Rodrigo Silva</b>, Fine-tuning a Multimodal Machine Learning Model for Key Information Extraction from Invoices and Receipts. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Cláudia Rosa</b>, Exploring the Causal Relationship Between Brand Attributes and Brand Equity: Key Insights from Havas' Meaningful Brands Study. <i>M.Sc. in Data Driven Marketing, NOVA IMS, 2025 </i></li>
+
+<li><b>Gonçalo Coutinho</b>, Estimating Savings Capacity Through Machine Learning: Advanced Predictive Techniques for Financial Behavior Analysis. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Catarina Janeiro</b>, Evaluating Green Public Procurement in Portugal: An Analytical Approach. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2025 </i></li>
+
+<li><b>Pedro Gouveia</b>, The impact of coach dismissal on football team performance: A difference-in- differences analysis. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Mariana Valério</b>, Contratos Públicos Sustentáveis em Portugal: Da Teoria à Prática dos Critérios de Sustentabilidade. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
 <li><b>Maxwell Marcos</b>, Estimating the Long-Term, Heterogeneous Impact of Voucher Incentives on Customer Purchase Frequency within the iFood Ecosystem: A use case of using machine learning and causal inference to address heterogeneous effects estimation. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
 
 <li><b>Guilherme Duarte</b>, AI, uses and abuses: Mapping and monitoring benefits and risks of Artificial Intelligence in FinTech. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
 
 <li><b>Jaime Kuei</b>, Heterogeneous Treatment Effects in Loyalty Programs: A Study Case of Causal Inference Approach to Understanding Customer Behaviour. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
-
 
 <li><b>Rui Figueiras</b>, Estimação dos Determinantes do Desempenho das Equipas de Futebol na Primeira Divisão Portuguesa. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
   
