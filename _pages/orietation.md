@@ -81,6 +81,18 @@ Concluded
 
 <li><b>Gabriel Gomes</b>, Causal Effects of Public Procurement on SME Performance: Evidence from Portugal. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2025 </i></li>
 
+<li><b>Ema Costa</b>, The impact of Cultural Events in Airbnb Supply and Reviews: Evidence from Porto and Lisbon Using the Generalized Synthetic Control Method. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Gonçalo Reis</b>, Housing Expenditure Compared to Public Expenditure in Each Municipality: Evidence from Portugal <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Beatriz Rodrigues dos Santos</b>, Mapping the Scientific Landscape of GLP-1 and Dual GLP-1/GIP Receptor Agonists in Obesity Treatment. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Tiago  Fernandes</b>, The impact of Big Events in Traffic and Air Quality: A Difference in Differences Study in Lisboa and Porto. <i>M.Sc. in Information Management, NOVA IMS, 2025 </i></li>
+
+<li><b> Andriani Kakoulli</b>, Beyond Static Investing: Forecasting Market Regimes for Adaptive Portfolios Combining GMM Clustering and Markov Chains in Tactical Asset Allocation across a Diversified Asset Universe. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
+<li><b>Filipe Santos</b>, What is the real market value of real estate? Combining machine learning with administrative data on property tax (IMI) and transaction tax (IMT) to estimate housing prices and housing wealth in Portugal. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
+
 <li><b>Maria do Mar Bazaliza</b>, Gatekeeping Knowledge: Editorial Influence in Tourism, Leisure, and Hospitality. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2025 </i></li>
 
 <li><b>Ana Rita Silva</b>, Anomaly Detection in Portuguese Public Procurement Contracts: An Embedding-Based Machine Learning Approach. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
