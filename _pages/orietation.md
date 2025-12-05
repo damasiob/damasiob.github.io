@@ -57,6 +57,12 @@ of success and sustainability. <i>Ph.D. in Information Management. Specializatio
 
 <li><b>Samuel Santos </b>, Data Science of Education. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
 
+<li><b>Marta Sacavém </b>, XXXXX. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
+
+<li><b>Samuel Ramos de Pina </b>, XXXXX. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
+
+<li><b>Frederico Tremoço </b>, XXXXX. <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
+
 </ol>
 -->
 <br>
