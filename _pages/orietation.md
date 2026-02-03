@@ -74,6 +74,8 @@ Concluded
 ---
 
 <ol reversed>
+<li><b>Carolina Ochoa Rodrigues</b>, Idea Engineering: Design and Implementation of a Decision Support System for Generating Research Topics <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
 
 <li><b>Matilde Parreira</b>, Benchmarking Efficiency in Public Service Delivery: A Geospatial Approach to Instituto dos Registos e Notariado I.P. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2025 </i></li>
 
