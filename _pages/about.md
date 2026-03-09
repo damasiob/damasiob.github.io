@@ -21,6 +21,7 @@ My Research Statement
 Recent Publications
 ======
 
+* Camuamba, E., Damásio, B., & Mendonça, S. (2025). Assessing critical mineral occurrence in battery technologies. Resources Policy, 111, 105755.
 * Damásio, B., & Nicolau, J. (2024). Time inhomogeneous multivariate Markov chains: Detecting and testing multiple structural breaks occurring at unknown dates. Chaos, Solitons & Fractals, 180, 114478.
 * Metzger, P., Mendonça, S., Silva, J. A., & Damásio, B. (2023). Battery innovation and the Circular Economy: What are patents revealing?. Renewable Energy.
 * Vaz, E., Damásio, B., Bação, F., Shaker, R. R., & Penfound, E. (2023). Urban habitats and food insecurity: Lessons learned throughout a pandemic. Habitat International, 135, 102779.
