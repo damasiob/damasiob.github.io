@@ -2,11 +2,11 @@
 title: "GenMarkov: Modeling Generalized Multivariate Markov Chains in R"
 collection: publications
 permalink: /publication/2022-02-genmarkov
-date: 2022-02-01
-venue: 'arXiv'
+date: 2025-01-01
+venue: 'The R Journal'
 ---
 
-Recommended citation: Vasconcelos, C., & Damásio, B. (2022). GenMarkov: Modeling Generalized Multivariate Markov Chains in R. arXiv preprint arXiv:2202.00333. [https://doi.org/10.48550/arXiv.2202.00333](https://doi.org/10.48550/arXiv.2202.00333)
+Recommended citation: Vasconcelos, C., & Damásio, B. (2025). GenMarkov: Modeling Generalized Multivariate Markov Chains in R. The R Journal, 16(1), 96-113. [https://doi.org/10.32614/RJ-2024-006](https://doi.org/10.32614/RJ-2024-006)
 
 Abstract: This article proposes a new generalization of the Multivariate Markov Chains (MMC) model. 
 The future values of a Markov chain commonly depend on only the past values of the chain in an autoregressive fashion. 
