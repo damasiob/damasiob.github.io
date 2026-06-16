@@ -21,6 +21,9 @@ My Research Statement
 Recent Publications
 ======
 
+* Semedo, L. P., Pinto, C., Monteiro, B., Sturm, N. F., Damásio, B., & Pinheiro, F. L. (2026). Inference of Firm-Firm Competing Networks in the Portuguese Public Procurement Market. Studies in Computational Intelligence (pp. 135–143). Springer. [https://doi.org/10.1007/978-3-032-16723-1_12](https://doi.org/10.1007/978-3-032-16723-1_12)
+* Shaul, C., Damásio, B., & Pinheiro, F. L. (2026). Mapping Mobility Networks Between Government Roles in Portugal. Studies in Computational Intelligence (pp. 206–217). Springer. [https://doi.org/10.1007/978-3-032-16723-1_18](https://doi.org/10.1007/978-3-032-16723-1_18)
+* Sturm, N. F., Candia, C., Damásio, B., & Pinheiro, F. L. (2026). Augmenting Firm Diversification Behavior Prediction with Graph Embeddings. Studies in Computational Intelligence (pp. 111–122). Springer. [https://doi.org/10.1007/978-3-032-16723-1_10](https://doi.org/10.1007/978-3-032-16723-1_10)
 * Silva, P., Damásio, B., Fortes, P., Soares, I., & Amaral, R. (2026). Are renewable energy sources advancing towards a sustainable society? Environment, Development and Sustainability. [https://doi.org/10.1007/s10668-025-07221-0](https://doi.org/10.1007/s10668-025-07221-0)
 * Sturm, N. F., Candia, C., Damásio, B., & Pinheiro, F. L. (2025). High earnings through firm influence: The role of hierarchical structures in public procurement. EPJ Data Science, 14(1). [https://doi.org/10.1140/epjds/s13688-025-00543-z](https://doi.org/10.1140/epjds/s13688-025-00543-z)
 * Hess, V. L., & Damásio, B. (2025). Machine learning in banking risk management: Mapping a decade of evolution. International Journal of Information Management Data Insights, 5(1), 100324. [https://doi.org/10.1016/j.jjimei.2025.100324](https://doi.org/10.1016/j.jjimei.2025.100324)
