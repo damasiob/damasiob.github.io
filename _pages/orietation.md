@@ -74,6 +74,14 @@ Concluded
 ---
 
 <ol reversed>
+<li><b>Kiroles Fady Ayad</b>, Enhancing Fraud Detection: The Role of Causal Inference in Identifying Key Drivers and Improving Model Transparency <i>M.Sc. in Information Management, NOVA IMS, 2026 </i></li>
+
+<li><b>Pedro Maria Queiroz Pereira Rocha Páris</b>, Anchor-Based Density Undersampling with Swarm Stabilization: A Novel Approach to Class Imbalance in Machine Learning <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Maria Helena Abreu Luz</b>, Study of Patterns in Aircraft Airframe MRO Using a Data Driven Approach <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
+
+<li><b>Lucas Costa Roque</b>, Public Procurement in Portugal - A Detailed Analysis <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
 <li><b>Carolina Ochoa Rodrigues</b>, Idea Engineering: Design and Implementation of a Decision Support System for Generating Research Topics <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
 
 
