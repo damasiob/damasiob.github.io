@@ -19,6 +19,8 @@ Concluded
     
 <ol reversed>
   
+<li><b>Luís Manica</b>, State aid in very high-capacity networks - Understanding the policy drivers in France, Portugal, Spain and United Kingdom. <i>Ph.D. in Public Policy, ISCTE, 2026</i></li>
+
 <li><b>Alexandre Paredes</b>, Firm-level effects of the Portuguese R&D tax credit: a microeconomic and sectoral analysis <i>Ph.D. in Information Management. Specialization Fields: Information Systems, NOVA IMS</i></li>
 </ol>
   
@@ -32,8 +34,6 @@ Ongoing
 
   <li><b>Catarina Cardoso</b>, Communicating technology in American and Chinese international media: what do the news say? <i>Ph.D. in International Studies, ISCTE</i></li>
   
-   <li><b>Luis Manica</b>, State aid in very high-capacity networks - Understanding the policy drivers in France, Portugal, Spain and United Kingdom. <i>Ph.D. in Public Policy , ISCTE</i></li>
-   
   <li><b>Eduardo Magalhães e Silva</b>, A scientometric approach to digital platforms: Knowledge sources, processes and impacts of “Big Tech”
  <i>Ph.D. in Information Management. Specialization Field: Data Science, NOVA IMS</i></li>
   
