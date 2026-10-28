@@ -76,6 +76,18 @@ Concluded
 <ol reversed>
 <li><b>Catarina Diógenes Silva</b>, Who Governs Corporate Sustainability? Research as a Source of Influence in MNE and ESG Knowledge (1998-2025). <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
 
+<li><b>Thiago Castro</b>, Projeção da Mortalidade Brasileira por Modelos Generalizados. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
+
+<li><b>Kátia Tavares</b>, Análise da Perceção de Risco Climático, Vulnerabilidade e Comportamento de Consumo de Energia em Cabo Verde: Um Estudo Estatístico com Base em Dados de Inquérito. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
+
+<li><b>Carolina Raimundo Pinto</b>, Text-Based and Accessibility Indicators in Public Procurement: Construction and Benchmarking. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Diogo Duarte</b>, Financial Investment and Sporting Efficiency in Football: A Stochastic Frontier Analysis. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Guilherme Boavida</b>, AI-Assisted Decision Support for Player Substitutions in Professional Football. <i>M.Sc. in Information Management, NOVA IMS, 2026 </i></li>
+
+<li><b>André Oliveira</b>, The impact of multiculturality on the performance of the principal European Football Leagues. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
 <li><b>Lucas Roque</b>, Public Procurement in Portugal - A Detailed Analysis <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
 
 <li><b>Luís Semedo</b>, Predicting the Portuguese public procurement markets with graph neural networks. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
