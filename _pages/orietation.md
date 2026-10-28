@@ -74,6 +74,8 @@ Concluded
 ---
 
 <ol reversed>
+<li><b>Catarina Diógenes Silva</b>, Who Governs Corporate Sustainability? Research as a Source of Influence in MNE and ESG Knowledge (1998-2025). <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
 <li><b>Lucas Roque</b>, Public Procurement in Portugal - A Detailed Analysis <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
 
 <li><b>Luís Semedo</b>, Predicting the Portuguese public procurement markets with graph neural networks. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
