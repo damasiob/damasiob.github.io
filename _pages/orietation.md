@@ -74,6 +74,26 @@ Concluded
 ---
 
 <ol reversed>
+<li><b>Beatriz Fonseca</b>, Profiling F1 Drivers: Linking Behavior to Team Success. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Joana Mendes</b>, Mapping the Intellectual Structure of Anticipatory Analytics: A Bibliometric Study of Forecasting and Signal Detection in the Era of Artificial Intelligence (2015-2025). <i>M.Sc. in Data Driven Marketing, NOVA IMS, 2026 </i></li>
+
+<li><b>Rui Luz</b>, Anomaly Detection in Public Procurement: Unsupervised Text Mining of Portuguese Contracts Using TF-IDF and Transformer Embeddings. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Rafael Sarno Borges</b>, A Knowledge Graph Framework for Modeling Portuguese Public Procurement Market. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Beatriz Monteiro</b>, Collusion Detection in Portuguese Public Procurement. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Beatriz Gonçalves</b>, O Impacto de Dados Sintéticos nos Modelos de Machine Learning em Relação ao Financiamento ao Terrorismo: Uma Análise Comparativa de Técnicas de Aumentação de Dados. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
+
+<li><b>Leonor Wanzeller</b>, Aggression Under Pressure: A Study of Player Discipline in Football Rivalry Matches. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Rafael Silva</b>, Predictive Power and Market Efficiency of Pre-Match Football Odds: Evidence Across Betting Markets. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Miguel Natário</b>, Discretized Markov Chains for Time Series Forecasting: A Comparative Study Across Linear and Machine Learning Models and Data-Generating Processes. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
+<li><b>Gonçalo Peres</b>, Forecasting unit sales in the pharmaceutical industry: A Comparative Study of SKU-Level Pharmaceutical Demand Forecasting Using Classical, Machine Learning and Count-Based Models. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
 <li><b>Catarina Diógenes Silva</b>, Who Governs Corporate Sustainability? Research as a Source of Influence in MNE and ESG Knowledge (1998-2025). <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
 
 <li><b>Thiago Castro</b>, Projeção da Mortalidade Brasileira por Modelos Generalizados. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
