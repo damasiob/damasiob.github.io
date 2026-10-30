@@ -74,6 +74,8 @@ Concluded
 ---
 
 <ol reversed>
+<li><b>Kátia Batalha</b>, Modelação das Transições entre Estados de Proteção Financeira com Cadeias de Markov: Uma Aplicação ao Setor das Microfinanças em Cabo Verde - Estudo de Caso. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
+
 <li><b>Beatriz Fonseca</b>, Profiling F1 Drivers: Linking Behavior to Team Success. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
 
 <li><b>Joana Mendes</b>, Mapping the Intellectual Structure of Anticipatory Analytics: A Bibliometric Study of Forecasting and Signal Detection in the Era of Artificial Intelligence (2015-2025). <i>M.Sc. in Data Driven Marketing, NOVA IMS, 2026 </i></li>
