@@ -74,6 +74,12 @@ Concluded
 ---
 
 <ol reversed>
+<li><b>Marco Salzer</b>, Feature-Combination States for Short-Horizon Prediction in Cryptocurrency Market Microstructure. <i>M.Sc. in Information Management, NOVA IMS, 2026 </i></li>
+
+<li><b>Maria Correia</b>, Carga de treino e desempenho competitivo no futebol feminino: Uma análise da carga semanal e da sua distribuição ao longo do microciclo. <i>M.Sc. in Information Management, NOVA IMS, 2026 </i></li>
+
+<li><b>Bárbara Capitão</b>, NVIDIA as a Knowledge Intermediary: NVIDIA's Role in Shaping Science Research. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
+
 <li><b>Kátia Batalha</b>, Modelação das Transições entre Estados de Proteção Financeira com Cadeias de Markov: Uma Aplicação ao Setor das Microfinanças em Cabo Verde - Estudo de Caso. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
 
 <li><b>Beatriz Fonseca</b>, Profiling F1 Drivers: Linking Behavior to Team Success. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
