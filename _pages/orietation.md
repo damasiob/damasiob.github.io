@@ -80,7 +80,7 @@ Concluded
 
 <li><b>Bárbara Capitão</b>, NVIDIA as a Knowledge Intermediary: NVIDIA's Role in Shaping Science Research. <i>M.Sc. in Data Science and Advanced Analytics, NOVA IMS, 2026 </i></li>
 
-<li><b>João Amoedo Cunha</b>, Portugal: Housing and Demography. To what extent do Portugal's demographic trends (ageing, fertility decline, household fragmentation, and internal migration) contribute to the country's recent housing price dynamics, relative to short-run macro-financial conditions? <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
+<li><b>João Amoedo Cunha</b>, Portugal: Housing and Demography. To what extent do Portugal's demographic trends contribute to the country's recent housing price dynamics? <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
 
 <li><b>Kátia Batalha</b>, Modelação das Transições entre Estados de Proteção Financeira com Cadeias de Markov: Uma Aplicação ao Setor das Microfinanças em Cabo Verde - Estudo de Caso. <i>M.Sc. in Statistics and Information Management, NOVA IMS, 2026 </i></li>
 
