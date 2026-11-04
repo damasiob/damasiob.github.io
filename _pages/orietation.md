@@ -74,6 +74,8 @@ Concluded
 ---
 
 <ol reversed>
+<li><b>Carolina Shaul</b>, Absenteeism under strain: A multilevel assessment of the predictors of absenteeism in public registry services. <i>M.Sc. in Information Management, NOVA IMS, 2026 </i></li>
+
 <li><b>Marco Salzer</b>, Feature-Combination States for Short-Horizon Prediction in Cryptocurrency Market Microstructure. <i>M.Sc. in Information Management, NOVA IMS, 2026 </i></li>
 
 <li><b>Maria Correia</b>, Carga de treino e desempenho competitivo no futebol feminino: Uma análise da carga semanal e da sua distribuição ao longo do microciclo. <i>M.Sc. in Information Management, NOVA IMS, 2026 </i></li>
